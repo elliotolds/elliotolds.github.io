@@ -10,8 +10,8 @@ I'm a founder of [Atstake](https://atstake.net), a platform for fairly enforcing
 
 You can find me at:
 - [Twitter](https://twitter.com/elliot_olds)
-- [Facebook](https://www.facebook.com/elliotolds)
 - [Medium](https://medium.com/@elliotolds)
+- [Instagram](https://www.instagram.com/symme7ry/)
 - elliotolds at Gmail
 
 See my [LinkedIn](https://www.linkedin.com/in/elliotolds/) for more about my background, but don't contact me there.
