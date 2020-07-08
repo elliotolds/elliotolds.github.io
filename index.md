@@ -12,7 +12,7 @@ You can find me at:
 - [Twitter](https://twitter.com/elliot_olds)
 - [Facebook](https://www.facebook.com/elliotolds)
 - [Medium](https://medium.com/@elliotolds)
-- elliotolds at gmail
+- elliotolds at Gmail
 
 See my [LinkedIn](https://www.linkedin.com/in/elliotolds/) for detail on my background, but don't contact me there.
 
