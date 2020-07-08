@@ -1,21 +1,18 @@
-Hello World
+# Elliot Olds
 
-Testing a theme.
+I'm a software developer and independent researcher living in Seattle.
 
-What do themes look like? https://jekyllrb.com/docs/themes/
+My main interests are using technology to increase individual freedom, AI safety / existential risk, math, economics, philosophy, and the study of disagreement.
 
-Syntax highlighted code block
+I'm a founder of [Atstake](https://atstake.net), a platform for fairly enforcing two-person contracts using Ethereum.
 
-# Header 1
-## Header 2
-### Header 3
+You can find me at:
+- [Twitter](https://twitter.com/elliot_olds)
+- [Facebook](https://www.facebook.com/elliotolds)
+- [Medium](https://medium.com/@elliotolds)
+- elliotolds at gmail
 
-- Bulleted
-- List
+See my [LinkedIn](https://www.linkedin.com/in/elliotolds/) for detail on my background, but don't contact me there.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://pages.github.com/) and ![Image](https://www.shutterstock.com/image-photo/cow-hooves-on-white-background-1206062284)
+A while back I created a [wiki](https://bitcoindebates.miraheze.org) about popular debates in the Bitcoin world. It's currently a bit out of date.
