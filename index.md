@@ -1,4 +1,4 @@
-![me](mefb.jpg)
+![me](mefb300.jpg)
 
 # Elliot Olds
 
