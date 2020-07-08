@@ -2,7 +2,7 @@
 
 I'm a software developer and independent researcher living in Seattle.
 
-My main interests are using technology to increase individual freedom, AI safety / existential risk, math, economics, philosophy, and the study of disagreement.
+My main interests are using technology to increase individual freedom, AI safety / existential risk, math, economics, philosophy, and the theory of disagreement.
 
 I'm a founder of [Atstake](https://atstake.net), a platform for fairly enforcing two-person contracts using Ethereum.
 
