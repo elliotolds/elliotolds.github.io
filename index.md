@@ -1,3 +1,5 @@
+![me](mefb.jpg)
+
 # Elliot Olds
 
 I'm a software developer and independent researcher living in Seattle.
