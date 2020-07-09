@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ![me](mefb300.jpg)
 
 I'm a software developer and independent researcher living in Seattle.
