@@ -12,6 +12,8 @@ I'm a founder of [Atstake](https://atstake.net), a platform for fairly enforcing
 
 I'm also working on [using prediction markets to improve institutional decision making](institutionaldecisionmaking.md).
 
+A while back I created a [wiki](https://bitcoindebates.miraheze.org) about popular debates in the Bitcoin world, though it's now a bit out of date.
+
 You can find me at:
 - [Twitter](https://twitter.com/elliot_olds)
 - [Medium](https://medium.com/@elliotolds)
@@ -20,6 +22,3 @@ You can find me at:
 - elliotolds at Gmail
 
 See my [LinkedIn](https://www.linkedin.com/in/elliotolds/) for more about my background, but don't contact me there.
-
-
-A while back I created a [wiki](https://bitcoindebates.miraheze.org) about popular debates in the Bitcoin world, though it's now a bit out of date.
