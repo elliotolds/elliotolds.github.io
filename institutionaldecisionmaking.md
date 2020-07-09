@@ -1,6 +1,4 @@
 
-This wiki has been written to quickly convey the gist of what I'm trying to do to people already familiar with much of the required background knowledge, so that I can get feedback on the overall project and strategy.
-
 # The problem
 
 Human brains evolved to be terrible at forming accurate beliefs about politics and big societal issues. We're all extremely biased and self-deluded. The most respected form of societal decision making (voting) involves a simple aggregation of our highly flawed beliefs. This negatively and significantly impacts almost every aspect of our lives.
