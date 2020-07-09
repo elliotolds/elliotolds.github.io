@@ -91,11 +91,11 @@ Prediction markets are already slowly being taken more seriously. Betting odds a
 
 One possibility is the creation of a platform to track predictions made externally by public figures / bloggers. One platform that currently does something like this is [longbets](http://longbets.org/).
 
-The end goal would be a culture where people who refuse to bet on their beliefs (or at least make concrete predictions) are either shamed or ignored, and betting or giving concrete predictions which are tracked becomes necessary for being taken seriously in more intellectual spheres. This is already kind of a thing among GMU economists and rationalists. [https://slatestarcodex.com/ Scott Alexander] is playing a small part in normalizing making concrete predictions as he becomes more popular.
+The end goal would be a culture where people who refuse to bet on their beliefs (or at least make concrete predictions) are either shamed or ignored, and betting or giving concrete predictions which are tracked becomes necessary for being taken seriously in more intellectual spheres. This is already kind of a thing among GMU economists and rationalists. [Scott Alexander](https://slatestarcodex.com/) is playing a small part in normalizing making concrete predictions as he becomes more popular.
 
 ### Experiment with futarchy on a public blockchain
 
-[https://en.wikipedia.org/wiki/Futarchy Futarchy] is a political system that directly uses prediction markets to make decisions. We're a long way from having it adopted in any country (hopefully some other ideas on this page will get us closer to that goal), but cryptocurrencies give us new jurisdictions to experiment with which are hard for existing authorities to regulate.
+[Futarchy](https://en.wikipedia.org/wiki/Futarchy) is a political system that directly uses prediction markets to make decisions. We're a long way from having it adopted in any country (hopefully some other ideas on this page will get us closer to that goal), but cryptocurrencies give us new jurisdictions to experiment with which are hard for existing authorities to regulate.
 
 ### Other stuff??
 
@@ -107,4 +107,4 @@ Prediction markets and merit-based forecasting mechanisms reduce the power of ex
 
 Betting also has a reputation as something that lowlifes are into, and as being a societal problem that must be minimized. It will probably be pretty hard to get people to start thinking of certain types of betting as socially beneficial.
 
-[https://twitter.com/KyleSamani/status/1114944770676277249 Kyle Samani points out] that betting feels confrontational and uncomfortable to many people. If you're having a discussion and ask someone to bet with you, you have to work hard to make it not come off as a social attack.
+[Kyle Samani points out](https://twitter.com/KyleSamani/status/1114944770676277249 ) that betting feels confrontational and uncomfortable to many people. If you're having a discussion and ask someone to bet with you, you have to work hard to make it not come off as a social attack.
