@@ -18,4 +18,4 @@ You can find me at:
 See my [LinkedIn](https://www.linkedin.com/in/elliotolds/) for more about my background, but don't contact me there.
 
 
-A while back I created a [wiki](https://bitcoindebates.miraheze.org) about popular debates in the Bitcoin world. It's currently a bit out of date.
+A while back I created a [wiki](https://bitcoindebates.miraheze.org) about popular debates in the Bitcoin world, though it's now a bit out of date.
