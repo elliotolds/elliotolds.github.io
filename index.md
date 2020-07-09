@@ -6,6 +6,8 @@ My main interests are using technology to increase individual freedom, AI safety
 
 I'm a founder of [Atstake](https://atstake.net), a platform for fairly enforcing two-person contracts using Ethereum.
 
+I'm also working on [using prediction markets to improve institutional decision making](institutionaldecisionmaking.md).
+
 You can find me at:
 - [Twitter](https://twitter.com/elliot_olds)
 - [Medium](https://medium.com/@elliotolds)
