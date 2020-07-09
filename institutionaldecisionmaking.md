@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Improving Institutional Decision Making
+#title: Improving Institutional Decision Making
 permalink: /institutionaldecisionmaking
 ---
+
+## Improving Institutional Decision Making
 
 # The problem
 

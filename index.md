@@ -10,7 +10,7 @@ My main interests are using technology to increase individual freedom, AI safety
 
 I'm a founder of [Atstake](https://atstake.net), a platform for fairly enforcing two-person contracts using Ethereum.
 
-I'm also working on [using prediction markets to improve institutional decision making](institutionaldecisionmaking.md).
+I'm also working on [using prediction markets to improve institutional decision making](institutionaldecisionmaking).
 
 A while back I created a [wiki](https://bitcoindebates.miraheze.org) about popular debates in the Bitcoin world, though it's now a bit out of date.
 
