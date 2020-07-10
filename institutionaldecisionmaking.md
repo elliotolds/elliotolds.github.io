@@ -4,7 +4,7 @@ title:
 permalink: /institutionaldecisionmaking
 ---
 
-## Improving (Large) Institutional Decision Making
+# Improving Institutional Decision Making
 
 # The problem
 
