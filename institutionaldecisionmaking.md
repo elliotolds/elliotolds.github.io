@@ -1,6 +1,5 @@
 ---
 layout: page
-#title: Improving Institutional Decision Making
 permalink: /institutionaldecisionmaking
 ---
 
