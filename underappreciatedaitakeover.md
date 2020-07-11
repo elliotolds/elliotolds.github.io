@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Some underappreciated reasons why single AI might take over the world
+title: Some underappreciated reasons why a single AI might take over the world
 permalink: /underappreciatedaitakeover
 ---
 
