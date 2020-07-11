@@ -8,8 +8,7 @@ permalink: /writing
 
 **[Would Bitcoin being overtaken destroy digital scarcity?](digitalscarcity)**, January, 2019.  
 A common argument in the crypto world is that if Bitcoin is ever overtaken as the dominant cryptocurrency,
-digital scarcity can never be restored because then no other domiannt cryptocurrency can ever be secure
-in its position. I explain why this general type of reasoning is bad.
+digital scarcity can never be restored. I examine this argument and the general style of reasoning that it embodies.
 
 **[Some underappreciated reasons why single AI might take over the world](underappreciatedaitakeover)**, December 2018.  
 A key reason why we should be worried about an AI takeover is that principle agent problems will play much less of a role in
