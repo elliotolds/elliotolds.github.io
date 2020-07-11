@@ -18,7 +18,7 @@ For instance, if we know that A had a particular glaring flaw that B does not ha
 
 ### The root of the problem
 
-This is the seed of a future article of mine, but I'll just touch on the general theme here: Bitcoin maximalist reasoning almost never looks like [Bayesian reasoning](https://wiki.lesswrong.com/wiki/Bayesian), which is the optimal way to reason. Bayesian reasoning involves taking every new piece of information as evidence which should almost always shift our estimates at least slightly. 
+This is the seed of a future article of mine, but I'll just touch on the general theme here: Bitcoin maximalist reasoning almost never looks like [Bayesian reasoning](https://wiki.lesswrong.com/wiki/Bayesian). Bayesian reasoning involves taking every new piece of information as evidence which should almost always shift our estimates at least slightly. 
 
 Maximalists generally prefer deductive reasoning to probabilistic reasoning. They often have a series of deductive arguments based on very simple models of the world. For instance in the above argument the only information we're considering about a cryptocurrency's staying power is just a couple bits of information about whether the top crypto has ever been overtaken, and whether it is the current top crypto. The model that generates the famous "money must always evolve in 4 stages, starting with SoV" belief which Vijay Boyapati describes in [The Bullish Case for Bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1) is also incredibly simple. 
 
