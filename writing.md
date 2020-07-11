@@ -8,7 +8,7 @@ permalink: /writing
 An influential Etherean argues that the "code is law" philosophy of some blockchains is deeply misguided. I argue that it's a simple extension of libertarian political theory to crypto.
 
 **[Examining a Conspiracy Theory about Satoshi’s Intent](https://medium.com/@elliotolds/examining-a-conspiracy-theory-about-satoshis-intent-ce9de66d166d)**, January 2019.  
-The topic of what Satoshi intended has been beaten to death. However the extent to which people in the Bitcoin community have been able to convince themselves of an extremely unlikely interpretation is interesting sociologically.
+Satoshi's intent has been beaten to death and is not that meaningful. However the extent to which some Bitcoiners have been able to convince themselves of an unlikely interpretation is interesting sociologically.
 
 **[Critique of "An (Institutional) Investor's Take on Cryptoassets"](https://medium.com/@elliotolds/thought-provoking-paper-but-it-seems-to-be-using-the-equation-of-exchange-incorrectly-25f3148b85ea)**, January 2018.  
 A flawed model of how to value cryptoassets was becoming popular, so I wrote this response. You'll need to read the linked original article for context.
@@ -24,3 +24,5 @@ People with technical expertise often try to cite their expertise in support of 
 This essay looks at a case of that happening and explains the general concept.
 
 A while back I created a [wiki about popular debates in the Bitcoin world](https://bitcoindebates.miraheze.org), though it's now a bit out of date.
+
+
