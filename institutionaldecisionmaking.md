@@ -4,31 +4,31 @@ title: Improving Institutional Decision Making
 permalink: /institutionaldecisionmaking
 ---
 
-## The problem
+### The problem
 
 Human brains evolved to be terrible at forming accurate beliefs about politics and big societal issues. We're all extremely biased and self-deluded. The most respected form of societal decision making (voting) involves a simple aggregation of our highly flawed beliefs. This negatively and significantly impacts almost every aspect of our lives.
 
 Similar to how solving AI is a meta-solution because a good enough AI could solve all our other problems, solving political decision making could significantly improve our solutions to all large scale object level problems.
 
-## The extent of our biases and delusion is vastly underestimated
+### The extent of our biases and delusion is vastly underestimated
 
 Much of what motivates humans is [signaling and tribal politics](http://elephantinthebrain.com/). We are self deceived about our motivations and lack the ability to introspect to discover what is actually motivating us (see [the work of Robert Kurzban](http://rationallyspeakingpodcast.org/show/rs-188-robert-kurzban-on-being-strategically-wrong.html) on the modularity of the brain). It is likely that our reasoning ability evolved in large part to [help us win arguments](http://lesswrong.com/lw/1wu/reasoning_isnt_about_logic_its_about_arguing/) to benefit ourselves or our factions in disputes within our tribe. People are especially prone to truth-blind beliefs when in ["far" mental mode](http://www.overcomingbias.com/2010/06/near-far-summary.html ), which is usually the mode we use to discuss politics.
 
 Our self-deception is so strong that it's nearly impossible to internalize and react appropriately to it. People who intellectually understand all of the above still behave as if they are the exception.
 
-## Idea pollution
+### Idea pollution
 
 Everyone's flawed beliefs are being used as inputs to a process that generates all of our societal decisions. These beliefs have externalities that are analogous to pollution. 
 
 One way to improve societal decision making would be to somehow significantly reduce/punish this pollution, and to encourage beliefs that instead had positive externalities.
 
-## Failed solutions
+### Failed solutions
 
 One popular class of failed solutions involves educating people. These solutions underestimate how deep rooted our biases are. Knowledge doesn't protect against bias. If your brain doesn't want to seek truth, then no matter how much you learn about biases or policy you'll come up with ways to tell yourself that you're accounting for the relevant biases and weighing all factors appropriately and therefore your conclusions are rational and the result of a truth-seeking process.
 
 Another failed solution involves essentially ignoring the problem / pretending people are truth-seeking enough in political contexts that our current institutions are fine. One might (rightly) claim that we don't need individuals to be truth-seeking as long as we have a good mechanism to somehow transform people's beliefs/actions into good societal decisions. Unfortunately voting by itself is not such a mechanism. See [Bryan Caplan](https://en.wikipedia.org/wiki/The_Myth_of_the_Rational_Voter#Rational_irrationality) and [Patri Friedman's](https://www.youtube.com/watch?v=rKoh4kKl08A) critiques of democracy.
 
-## General approaches to a better solution
+### General approaches to a better solution
 
 I see two general angles of approach: 
 
@@ -36,7 +36,7 @@ I see two general angles of approach:
 
 (2) Changing our political institutions to make decisions differently.
 
-## Promising mechanisms
+### Promising mechanisms
 
 There is a lot of evidence (and theoretical support) suggesting that prediction markets are excellent truth-seeking mechanisms in many contexts. They are extremely hard to manipulate, as people can profit by counteracting any manipulation attempts.
 
@@ -44,7 +44,7 @@ The [Good Judgment Project](https://www.gjopen.com/ ) has also had success creat
 
 In general, making concrete predictions with incentives for good results and disincentives for bad results seems to significantly increase truth-seeking. As mentioned previously, people in [http://www.overcomingbias.com/2010/06/near-far-summary.html "far" mental mode] more often form truth-blind beliefs. There is evidence that making concrete predictions puts people in 'near' mode.
 
-## Concrete project ideas
+### Concrete project ideas
 
 So predictions markets, betting on beliefs, and using the judgment of superforecasters are all great. What specifically should we do to move society in a direction where more of our important decisions are based on those mechanisms? Or how can we figure out which other mechanisms might help us make better decisions?
 
@@ -104,7 +104,7 @@ The end goal would be a culture where people who refuse to bet on their beliefs 
 
 I'm very interested in more ideas that may have a high ROI for replacing our current decision making mechanisms with better ones. Let me know if you have ideas. My first and last name at gmail.
 
-## Some obstacles
+### Some obstacles
 
 Prediction markets and merit-based forecasting mechanisms reduce the power of existing decision makers, who often use their power to benefit themselves at the expense of the whole. So there will be a lot of resistance from these people to this project.
 
