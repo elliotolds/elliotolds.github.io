@@ -27,7 +27,7 @@ A flawed model of how to value cryptoassets was becoming popular, so I wrote thi
 An AI researcher makes some arguments against the idea of an AI explosion, which I critique.
 
 **[Market Governance FAQ](https://bitcoindebates.miraheze.org/wiki/Market_Governance_FAQ)**, March 2017.  
-I explain why people should be less fearful of governance via hard fork on cryptocurrency platforms.
+I explain why people should be less fearful of governance via hard fork on cryptocurrency networks.
 
 **[The Bitcoin block size debate is not just about technical expertise](https://medium.com/@elliotolds/the-bitcoin-block-size-debate-is-not-about-technical-expertise-d3434beb04b2)**, January 2016.  
 People with technical expertise often try to cite their expertise in support of their views in illegitimate ways. 
