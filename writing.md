@@ -10,9 +10,11 @@ permalink: /writing
 A common argument in the crypto world is that if Bitcoin is ever overtaken as the dominant cryptocurrency,
 digital scarcity can never be restored. I examine this argument and the general style of reasoning that it embodies.
 
+<!--
 **[Some underappreciated reasons why single AI might take over the world](underappreciatedaitakeover)**, January 2019.  
 A key reason why we should be worried about an AI takeover is that principle agent problems will play much less of a role in
 AI systems than they have in human systems.
+-->
 
 **[A Libertarian Response to “Against Szabo’s Law”](https://medium.com/@elliotolds/a-libertarian-response-to-vlad-zamfirs-new-crypto-legal-system-f37ba8a6e76c)**, January 2019.  
 An influential Etherean argues that the "code is law" philosophy of some blockchains is deeply misguided. I argue that it's a simple extension of libertarian political theory to crypto.
