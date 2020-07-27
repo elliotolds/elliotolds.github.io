@@ -4,7 +4,7 @@ title: Underappreciated reasons why a single AI might take over the world
 permalink: /underappreciatedaitakeover
 ---
 
-The following is a sketch of some ideas stemming from a [Twitter discussion](https://twitter.com/elliot_olds/status/1079176432327188480).
+_The following is a sketch of some ideas stemming from a [Twitter discussion](https://twitter.com/elliot_olds/status/1079176432327188480). It's unfinished and thus less polished than the other essays on this site._
 
 I currently think a "singleton AI" scenario where one supperintelligent AI becomes more powerful than the rest of the world combined is about 60% likely.
 
@@ -86,7 +86,7 @@ A popular argument is that a jump from AIs at around the 90 IQ level to those at
 
 Lumpy progress within a team might look like this: a team of AI researchers is able to create an AI with an IQ of 90 on Monday. After one modification they're able to create an AI with an IQ of 160 on Tuesday. 
 
-Even if it took a team of researchers a year to go from a 90 IQ AI to a 160 IQ AI, what matters is the delay between when the first team deploys their AI and when the next fastest team deploys something similar. If this delay between teams is close to the time required for a superintelligence to gain a decisive strategic advantage, this could easily result in a single AI taking over the world. 
+Even if it took a team of researchers a year to go from a 90 IQ AI to a 160 IQ AI, what matters is the delay between when the first team deploys their AI and when the next fastest team deploys something similar. If this delay between teams is close to the time required for a superintelligence to gain a decisive strategic advantage, this could result in a single AI taking over the world. 
 
 Even if the team who deployed the first superintelligent AI immediately revealed what they had done and shared their techniques with other teams, it may take these other teams months to sort out the implicit knowledge / infrastructure to make the techniques work.
 
