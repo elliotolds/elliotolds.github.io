@@ -14,4 +14,4 @@ This five minute [visual tour](https://medium.com/@atstake/a-quick-visual-tour-o
 
 Society's decisions are very far from optimal, both because of misaligned incentives and inaccurate beliefs about how the world works. This is especially unfortunate because technological progress is [accelerating](https://www.openphilanthropy.org/blog/modeling-human-trajectory) and [destabilizing society and politics](https://80000hours.org/podcast/episodes/martin-gurri-revolt-of-the-public/). Not being able to coordinate well in the face of [existential risks](https://futureoflife.org/background/existential-risk/) is very bad.
 
-I believe prediction markets may be a key in solving this problem. I explain in **[this writeup](institutionaldecisionmaking)**.
+I believe prediction markets may be a key to solving this problem. I explain in **[this writeup](institutionaldecisionmaking)**.
