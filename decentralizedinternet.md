@@ -76,3 +76,16 @@ The argument that the Internet may lead to decentralization of power doesn't res
 Not long ago there was no good way to communicate securely over your phone, and now billions of people have access to user friendly end to end encryption.
 -->
 
+# **Can't governments just backdoor our software and hardware?**
+
+The Burja essay makes several claims in this area that I believe are overstated. 
+
+First is that governments "[will not](https://tech.newstatesman.com/security/the-eu-is-set-to-declare-war-on-encryption) [stand for encryption](https://web.archive.org/web/20200425113543/https://blog.privacytools.io/us-government-wages-war-on-encryption/) software without backdoors". The links show that parts of the US and EU governments are attempting to introduce laws mandating encryption backdoors. However government officials have been trying to do this for a long time. As in previous iterations, privacy advocates are fighting baack. It's not clear that the governments will win this battle, especially since they are operating in this new world of reduced legitimacy. 
+
+Currently it's plausible that WhatsApp's 1.6 billion monthly users really do have access to working end to end encryption, and it's even more plausible (since Signal is open source) that Signal's users are using working end to end encryption. 
+
+Another claim is that the hardware backdoors have been mandated in the US, with [this](https://web.archive.org/web/20200425113543/https://blog.privacytools.io/us-government-wages-war-on-encryption/) given as supporting evidence. As far as I can tell the article is about a former NSA director planning to get access to data from US tech companies about its users (possibly through encryption backdoors), but is doesn't seem to be about hardware backdoors.
+
+[This](https://www.pcmag.com/news/does-your-motherboard-have-a-secret-chinese-spy-chip) is presented as evidence that China has mandated hardware backdoors in chips used by US companies. It references a controversial [Bloomberg story](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies) alleging that the Chinese motherboard company Supermicro created its chips with backdoors, which were sold to parts of the US government. The [Wikipedia article on Supermicro](https://en.wikipedia.org/wiki/Supermicro) discusses this issue. It seems unclear whether this is true.
+
+There is concern from the US government about using [other Chinese hardware](https://www.zdnet.com/article/us-military-purchased-32-8m-worth-of-electronics-with-known-security-risks/) as well. It does seem plausible that some Chinese hardware is compromised, although it appears that the NSA has [backdoored Cisco routers](https://www.tomshardware.com/news/cisco-backdoor-hardcoded-accounts-software,37480.html). However what isn't clear is to what extent governments can easily gain access to a random US citizen's computer or phone.
