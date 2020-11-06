@@ -4,28 +4,112 @@ title: Can The Internet Decentralize Society?
 permalink: /decentralizedinternet
 ---
 
-What will be the long run effect of the Internet on the distribution of power? Will the nature of the Internet lead to centralization? Will governments and big tech companies closely cooperate to strengthen their control over society? Or can the [cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) dream of the Internet as a tool of individual freedom and privacy be realized?
+What will be the long run effect of the Internet on the distribution of power? Will governments and big tech companies closely cooperate to strengthen their control over society?  Or can the [cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) dream of the Internet as a tool of individual freedom and privacy be realized?
 
-These questions are discussed in [The Centralized Internet Is Inevitable](https://palladiummag.com/2020/10/19/the-centralized-internet-is-inevitable/) by [Samo Burja](https://twitter.com/SamoBurja). The essay argues (as its title suggests) that the Internet is an inherently centralizating technology. [Palladium](https://palladiummag.com/) editor and cofounder [Wolf Tivy](https://twitter.com/wolftivy) has also expressed support for this theory:
+<!---
+removed from above: Does the nature of the Internet lead to centralization? 
+-->
+
+These questions are discussed in [The Centralized Internet Is Inevitable](https://palladiummag.com/2020/10/19/the-centralized-internet-is-inevitable/) by [Samo Burja](https://twitter.com/SamoBurja) and in [this podcast](https://palladiummag.com/2020/10/30/palladium-podcast-46-samo-burja-on-why-regulating-online-speech-is-unavoidable/) featuring Burja and [Palladium](https://palladiummag.com/) editor and cofounder [Wolf Tivy](https://twitter.com/wolftivy). Their position is that the Internet is an inherently centralizating technology. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The future is total surveillance for total compliance of every action, word, and thought. This is the world we are bringing into being with technology.<br><br>The unavoidable telos of technological means is totalitarian power.</p>&mdash; Wolf Tivy (@wolftivy) <a href="https://twitter.com/wolftivy/status/1197295213565239296?ref_src=twsrc%5Etfw">November 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div><br></div>
-There are several factors that cause me to doubt this.
 
-# **Our information landscape has already been massively decentralized by the Internet**
+I'll describe below how the Internet has already decentralized power to a large degree and why we might expect a continuation of this trend.
 
-Compare our modern information landscape to that of 1990. Traditional institutions now have far less ability to control information flow and narratives. People are able share information, build large audiences, and coordinate without the permission of traditional gatekeepers. 
+# **The Internet has decentralized information**
 
-This is a direct result of the Internet, and the effects on society have been enormous. Perhaps the most significant of these effects is the erosion of perceived legitimacy of legacy institutions and elites, as argued by [Martin Gurri](https://twitter.com/mgurri) in [The Revolt of the Public: And the Crisis of Authority in the New Millennium](https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143) ([podcast with transcript](https://80000hours.org/podcast/episodes/martin-gurri-revolt-of-the-public/), [ten minute version](https://www.youtube.com/watch?v=yhSaPi_zAyY&ab_channel=MartinGurri)).
+<!---
+was: Our information landscape has already been massively decentralized by the Internet 
+-->
 
-Individuals now have access to far more points of view and information than in the pre-Internet era, and are able to more easily challenge authorites instead of taking their word for what's happening and what it means. To borrow some of Gurri's [talking points](https://80000hours.org/podcast/episodes/martin-gurri-revolt-of-the-public/): in the days of John F. Kennedy the US public's trust in government would range between 70-80%. Today it's under 30%. For congress it's under 20%. Can you imagine a network TV anchorman being voted the most truthworthy man in America today? 
+Compare the information landscape in Western countries now to that of 1990. Today we have easy access to a much wider variety of information and narratives, and these narratives tend to be more critical of large institutions and elites than the narratives people were exposed to in the past. People are able share information, build large audiences, and coordinate with each other with minimal interference from gatekeepers. This is a direct result of the Internet.
 
-The two most powerful organizations in the United States, the Democratic National Committee and Republican National Committee, along with the vast majority of the traditional media were all strongly opposed to Donald Trump becoming president in 2016 and yet it didn't matter. This couldn't have happened pre-Internet.
+ The effects on society have been enormous. Perhaps the most significant effect has been the erosion of the perceived legitimacy of our institutions and elites, as described by [Martin Gurri](https://twitter.com/mgurri) in [The Revolt of the Public: And the Crisis of Authority in the New Millennium](https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143) ([podcast with transcript](https://80000hours.org/podcast/episodes/martin-gurri-revolt-of-the-public/), [ten minute version](https://www.youtube.com/watch?v=yhSaPi_zAyY&ab_channel=MartinGurri)).
 
-People like [Joe Rogan](https://www.youtube.com/user/PowerfulJRE) and [Pewdiepie](https://www.youtube.com/user/PewDiePie) have developed influence that dwarfs that of media brands. There are countless people like [Eric Weinstein](https://www.youtube.com/playlist?list=PLq9jO8fmlPee9ezOraOHAJ3g9Zh3V2F2G) operating on a smaller scale who are able to push anti-establishment narratives to large audiences. 
+<!---
+To borrow some of Gurri's [talking points](https://80000hours.org/podcast/episodes/martin-gurri-revolt-of-the-public/): in the days of John F. Kennedy the US public's trust in government would range between 70-80%. Today it's under 30%. Trust in congress is under 20%. Can you imagine a network TV anchorman being voted the most truthworthy man in America today?
+-->
 
-Many Silicon Valley venture capitalists have stopped talking to the New York Times and other traditional media sources because the Internet allows them to get their message out on their own terms. The grassroots social justice movement went mainstream largely due to the Internet. [QAnon](https://en.wikipedia.org/wiki/QAnon) and flat earth conspiracy theorists are thriving in the new decentralized information landscape.
+---- IMPROVE THIS
+The amount of detailed anti-establishment narratives that people have access to today is astounding. Some of them started grassroots and have become mainstream (the social justice movement, Trumpism, Brexit and general anti-immigration sentiment), many are not quite mainstream but have huge followings (the alt-right, the dirtbag left, covid skepticism, climate change skepticism, antifa, ANnon, etc.)
+
+Imagine you were disillusioned with your society's institutions in 1990. Where would you go for critical perspectives? How would you know which perspectives to investigate? 
+
+Maybe you'd go to the library and browse books on socialism or anarcho-capitalism, or try to find some anti-establishment magazines. Maybe you'd call up your edgiest friend and ask their advice. 
+
+Let's say you somehow found a critical narrative that appealed to you. To make it really meaningful to you it would help to find a community of likeminded people. How would you find them? If you wanted to convince more people of the truth of this narrative, how would you do so?
+
+<!---
+If it were in a book it might take a lot of work to figure out how it applies to current society. It'd be nice to have people to help with that,
+-->
+
+The Internet has made the number of potential content channels essentially infinite, and this has had a profound impact on how filtering of content happens.
+
+When there was only a limited number of TV channels, radio stations, and newspapers in every market the it was necessary for content distributors to by default deplatform 99.99% of people. These distributors had use their discretion because there was only enough space to give a small sliver of the population a platform. This allowed distributors of information to curate content based on the acceptability of its narrative without being seen as doing anything unreasonable. They wanted to distribute profitable content, but they also wanted to trade favors with powerful people and institutions who didn't want to be criticized.
+
+In the Internet era almost everyone is 'soft'-deplatformed in practice because we only have a limited amount of attention. If everyone is producing content, only a miniscule percentage of this content will be widely seen. The big change with the Internet is that filtering of content is now done almost entirely on the basis of popularity. And the content that isn't the most popular isn't actually gone, you just have to try a little harder to seek it out. We've gone from a hard filter based on both popularity and narrative conformity to a soft filter based almost entirely on popularity.
+
+
+<!---
+By default everyone has a (small) platform, and it's only in exceptional cases that someone's platform is taken away.
+-->
+
+The Internet has also reduced the cost of creating and distributing content. Lower costs mean that you're less reliant on ads to pay for your content distribution, and less restricted by corporate reluctance to be associated with controversial narratives.
+
+<!---
+The Internet also encourages advertizers to have to explicitly associate with the content their ads appear near. When buying a TV or magazine ad, advertizers know exactly which TV show or magazine their ad will appear in. This allows people to hold them accountable for implicitly endorsing unpopular content. An advertiser on YouTube had plausible deniability because they likely have no idea which channels their ads are being shown on.
+
+In the Internet era you can reach huge audiences with no advertising. If you do have ads and your content is controversial
+-->
+
+
+Imagine creating a website vs. a print magazine, a podcast vs. a radio show, a YouTube channel vs. a TV show. When you don't have large creation and distribution costs, you can reach large audiences without large corporate advertizers. If you do have ads, the Internet allows a degree of separation between content producers and advertizers so controversial content can be monetized without the advertizer having to make an explicit decision to endorse whatever content their ad appeared near.
+
+Even more important than the lowering of costs is the increase in the numbers of channels available. There number of TV and radio networks
+
+Before the Internet there were a lot of barriers to spreading information, particularly anti-estalbishment narratives. 
+
+The startup cost of creating a niche magazine was high, and the ongoing distribution costs meant that you needed advertisers to explicitly associate themselves with your narrative. When you see an ad while watching a YouTube conspiracy video, the advertizer has plausible deniability that they had no idea which videos YouTube would put their ad on.
+
+--creation and distribution costs
+
+-low bandwidth.. low number of information channels..  (newspapers, economics)
+
+--The large startup cost of creating a niche magazine means that many people with similar ideas would never find each other.
+
+What if many other people felt similarly to you, but none of them had taken on the large cost of starting a magazine or a group that you were able to find?
+
+advertizers... 
+
+In the pre-Internet world it was pretty tough to find or spread narratives that ran counter to what was broadcast at you via TV, newspapers, and the radio. College campuses were perhaps the closest thing we had to the Internet -- environments where large numbers of people interested ideas could share information and come up with critical narratives without direct mediation from gatekeepers. (which caused them to play a large role in the civil rights and anti-war movements in the US.)
+
+NOTE: restrict bandwidth: 99.99% of people are deplatformed... it's a convenient excuse to deplatform someone for their views.
+    you can give them SOME airtime, but then the counter-narrative can have all of the rest of the airtime, as the default
+
+Imagine yourself as a disaffected citizen in 1990. You sense the two party political system and mainstream media are kinda shady and you don't feel like you can support them. Where do you go to find likeminded people? How do get get access to alternative points of view? Before the Internet this was far more difficult. If you found some non-mainstream ideas in a book or obscure magazine, it was hard to find a community around them or to spread your perspective to others. It's much easier to share a link on Twitter than to get your friends to subscribe to a socialist magazine.
+
+Now you can go onto the Internet and immerse yourself as deeply as you want into the narratives of the social justice movement, the Chapo Traphouse crew, antifa, neoreaction, conrtapoints, joe rogan, sam harris, eric weinstein, bret weinstein, the alt-right, covid-skeptics, slatestarcodex, palladium, daniel schmactenberger, joe rogan, qanon. 
+
+There is so much content being produced that you can get more information than you can keep up with just from a handful of sources. Before even if you were reading communist books, you were still getting your daily news from TV networks or newspapers. Now you can get all your information from Rogan, the Weinstein brothers, and Palladium magazine and completely cut out any mainstream sources.
+
+<!---
+The most influential of these narratives on the left is the social justice movement, which has been fueled largely via the Internet. Although progressive elites strategically harness social justice narratives to win favor, social justice is a grass roots movement that seeks to replace the current power structure. Other left wing groups that have anti-elite narratives that are much more influential than they could ever be before the Internet include the Bernie Sanders movement (including the dirtbag left as featured on Chapo Trap House), antifa, sam harris, eric weinstein, bret weinstein].
+
+On the right there is Trumpism (he's now president, but the two most powerful organizations in the US opposed him: the GOP and DNC), Brexit, the alt-right, anti-corona, anti-climate change, anti-immigration, neoreaction, Qanon]
+
+There are also anti-establishment narratives
+-->
+
+
+<!---
+
+People like [Joe Rogan](https://www.youtube.com/user/PowerfulJRE) and [Pewdiepie](https://www.youtube.com/user/PewDiePie) have developed influence that dwarfs that of all big the biggest media brands. There are countless people like [Eric Weinstein](https://www.youtube.com/playlist?list=PLq9jO8fmlPee9ezOraOHAJ3g9Zh3V2F2G) and [Mencius Moldbug](https://en.wikipedia.org/wiki/Curtis_Yarvin) operating on a smaller scale who are able to push anti-establishment narratives into the public consciousness. 
+
+Many Silicon Valley venture capitalists have stopped talking to the New York Times and other traditional media sources because the Internet allows them to get their message out on their own terms. The grassroots social justice movement went mainstream largely due to the Internet. [QAnon](https://en.wikipedia.org/wiki/QAnon), flat earthism, and other anti-elite conspiracy theories are all thriving in the new information landscape.
+-->
+
 
 # **Doesn't all this "decentralization" exist at the mercy of big tech companies?**
 
@@ -33,9 +117,13 @@ One might object that most of these popular individual brands are created on tec
 
 First, we should compare the effect of the Internet to what existed without it, not to some idealized world of perfect decentralization. Is the information landscape far more decentralized now than it was in 1990? Even if Twitter sometimes censors a link from the New York Post or adds a disclaimer to the President's tweet, the answer is obvious. 
 
-Second, if you already have a large audience you can survive a coordinated deplatforming across all major tech companies. [Alex Jones](https://en.wikipedia.org/wiki/Alex_Jones) was effectively canceled by the big Western tech companies, which did reduce his influence, yet InfoWars still reaches more people than The Economist or Newsweek. Someone like Rogan is effectively uncancelable. By relying on decentralized technologies like his email list, website, and podcast (podcasting architecture is not controlled by the major tech companies) he would remain hugely influential.
+Second, if you already have a large audience you can survive a coordinated deplatforming across all major tech companies. [Alex Jones](https://en.wikipedia.org/wiki/Alex_Jones) was the target of a coordinated deplaforming by the big Western tech companies. This did reduce his influence, yet InfoWars still reaches more people than The Economist or Newsweek. In the pre-Internet era Alex Jones could not have anywhere close to his current influence. Someone like Rogan is effectively uncancelable. By relying on decentralized technologies like his email list, website, and podcast (podcasting architecture is not controlled by the major tech companies) he would remain hugely influential even if deplatformed by all major tech platforms.
 
-Third, although there are only a small handful of tech companies that dominate the market for user attention in the West, as of now they still have incentives to compete with one another for attention and to keep their users happy. Users are usually against deplatforming people, which is one reason it only happens to people like Alex Jones or [Richard Spencer](https://en.wikipedia.org/wiki/Richard_B._Spencer). Systems like Bitcoin have shown us that a situation where many large actors could exercise their power in harmful ways can still be stable and aligned with user interests when those actors have the right economic incentives.
+Third, although there are only a small handful of tech companies that dominate the market for user attention in the West, as of now they still have incentives to compete with one another for attention and to keep their users happy. Users are usually against deplatforming people, which is one reason it only happens to people like Alex Jones or [Richard Spencer](https://en.wikipedia.org/wiki/Richard_B._Spencer). 
+
+Twitter reversed their decision to censor the New York Post after public outcry and political pressure from Republicans. Big tech companies like Twitter and Facebook do not want to get involved in censorship, but they currently face political pressure from both sizes and are not sure how best to avoid becoming a target. 
+
+Systems like Bitcoin have shown us that a situation where many large actors could exercise their power in harmful ways can still be stable and aligned with user interests when those actors have the right economic incentives.
 
 # **What about China?**
 
@@ -45,7 +133,7 @@ The key to this argument is that different initial conditions can lead to very d
 
 Imagine two surfers as a wave approaches. One starts in a good position on top of his board, and is able to catch and ride the wave. The other surfer starts in the water and doesn't see the wave. It crashes down on him, followed by wave after wave continuing to crash down on him as he struggles just to catch his breath. Maybe if the second surfer could somehow get on top of his board he'd be able to ride safely to shore, but that may not be possible given his starting position and where he is in the ocean now.
 
-Similarly, maybe the US government could have avoided the crisis of authority and pressured tech companies into helping it solidify its power if it had more foresight before the Internet developed. But the US government is now in a situation where it lacks legitimacy. Without legitimacy it's likely much harder to enact the far reaching policies (mandated encryption backdoors for instance) that would be needed to transition to high information control over its citizens while being constantly battered by the legitimacy-eroding power of the Internet.
+Similarly, maybe the US government could have avoided the crisis of authority and pressured tech companies into helping it solidify its power if it had more foresight before the Internet developed. But the US government is now in a situation where it lacks legitimacy. Without legitimacy it's much harder to enact and enforce the far reaching policies (mandated encryption backdoors for instance) that would be needed to transition to high information control over its citizens while being constantly battered by the legitimacy-eroding power of the Internet.
 
 # **The details of technological change matter and are hard to predict**
 
