@@ -24,45 +24,75 @@ I'll describe below how the Internet has already decentralized power to a large 
 was: Our information landscape has already been massively decentralized by the Internet 
 -->
 
-Compare the information landscape in Western countries now to that of 1990. Today we have easy access to a much wider variety of information and narratives, and these narratives tend to be more critical of large institutions and elites than the narratives people were exposed to in the past. People are able share information, build large audiences, and coordinate with each other with minimal interference from gatekeepers. This is a direct result of the Internet.
+Compare the information landscape in Western countries now to that of 1990. Today we have easy access to a much wider variety of information and narratives, and these narratives tend to be more critical of large institutions and elites than the narratives people were exposed to in the past. 
 
- The effects on society have been enormous. Perhaps the most significant effect has been the erosion of the perceived legitimacy of our institutions and elites, as described by [Martin Gurri](https://twitter.com/mgurri) in [The Revolt of the Public: And the Crisis of Authority in the New Millennium](https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143) ([podcast with transcript](https://80000hours.org/podcast/episodes/martin-gurri-revolt-of-the-public/), [ten minute version](https://www.youtube.com/watch?v=yhSaPi_zAyY&ab_channel=MartinGurri)).
+<!--
+People are able share information and build large audiences with minimal interference from intermediaries. This is a direct result of the Internet.
+
+ The effects on society have been enormous. Perhaps the most significant effect
+ -->
+ 
+ One effect of this has been the erosion of the perceived legitimacy of our institutions and elites, as described by [Martin Gurri](https://twitter.com/mgurri) in [The Revolt of the Public: And the Crisis of Authority in the New Millennium](https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143) ([podcast with transcript](https://80000hours.org/podcast/episodes/martin-gurri-revolt-of-the-public/), [ten minute version](https://www.youtube.com/watch?v=yhSaPi_zAyY&ab_channel=MartinGurri)).
 
 <!---
 To borrow some of Gurri's [talking points](https://80000hours.org/podcast/episodes/martin-gurri-revolt-of-the-public/): in the days of John F. Kennedy the US public's trust in government would range between 70-80%. Today it's under 30%. Trust in congress is under 20%. Can you imagine a network TV anchorman being voted the most truthworthy man in America today?
 -->
 
+<!---
 ---- IMPROVE THIS
+People can now dive as deeply as they want to into 
 The amount of detailed anti-establishment narratives that people have access to today is astounding. Some of them started grassroots and have become mainstream (the social justice movement, Trumpism, Brexit and general anti-immigration sentiment), many are not quite mainstream but have huge followings (the alt-right, the dirtbag left, covid skepticism, climate change skepticism, antifa, ANnon, etc.)
+-->
 
 Imagine you were disillusioned with your society's institutions in 1990. Where would you go for critical perspectives? How would you know which perspectives to investigate? 
 
 Maybe you'd go to the library and browse books on socialism or anarcho-capitalism, or try to find some anti-establishment magazines. Maybe you'd call up your edgiest friend and ask their advice. 
 
-Let's say you somehow found a critical narrative that appealed to you. To make it really meaningful to you it would help to find a community of likeminded people. How would you find them? If you wanted to convince more people of the truth of this narrative, how would you do so?
+Suppose you somehow found a critical narrative that appealed to you. To make it meaningful to your life it would help to find a community of likeminded people. How would you find them? If you wanted to convince more people of the truth of this narrative, how would you do so using the technology of 1990?
 
 <!---
 If it were in a book it might take a lot of work to figure out how it applies to current society. It'd be nice to have people to help with that,
--->
+
 
 The Internet has made the number of potential content channels essentially infinite, and this has had a profound impact on how filtering of content happens.
+-->
 
-When there was only a limited number of TV channels, radio stations, and newspapers in every market the it was necessary for content distributors to by default deplatform 99.99% of people. These distributors had use their discretion because there was only enough space to give a small sliver of the population a platform. This allowed distributors of information to curate content based on the acceptability of its narrative without being seen as doing anything unreasonable. They wanted to distribute profitable content, but they also wanted to trade favors with powerful people and institutions who didn't want to be criticized.
+In the pre-Internet era, everyone was deplatformed by default. There were a limited number of TV channels, radio stations, and newspapers making it necessary for information distributors to exercise heavy curation. This gave information distributors cover to curate partly based on the content's narrative. They wanted to distribute profitable content, but they also wanted to trade favors with powerful people and institutions who didn't want to be criticized.
 
-In the Internet era almost everyone is 'soft'-deplatformed in practice because we only have a limited amount of attention. If everyone is producing content, only a miniscule percentage of this content will be widely seen. The big change with the Internet is that filtering of content is now done almost entirely on the basis of popularity. And the content that isn't the most popular isn't actually gone, you just have to try a little harder to seek it out. We've gone from a hard filter based on both popularity and narrative conformity to a soft filter based almost entirely on popularity.
+In addition to there being far fewer communication channels, owning a large-scale communication channel pre-Internet was expensive and made information distributors more dependent on advertisers who were often not confortable with anti-estalbishment narratives. 
+
+It's still true today that only a small percentage of people have a large platform. There's still a limited amount of attention to go around. But filtering of content is now done almost entirely by popularity instead of by both popularity and narrative conformity. 
+
+Internet content producers often produce so much realtime information that people no longer need to ever return to the fold of mainstream narratives. Before the Internet even if you were reading some subversive books and magazines you still probably got much of your news from TV or newspapers. Today someone might have most of their understanding of what's going on in society filled in by regularly listening to the The Joe Rogan Experience, Eric Weinstein, Chapo Trap House, and reading Scott Alexander.
+
+<!---
+When huge numbers of narratives compete without much narrative filter it results both in huge anti-elite platforms like The Joe Rogan Experience, and a long tail of influencial but less popular anti-elite narratives from Eric Weinstein, Scott Alexander, Mencius Moldbug, Chapo Trap House, etc. Whereas before you'd have to go looking hard for this type of anti-elite view, now they're all just a click away from every Internet user.
+-->
 
 
 <!---
-By default everyone has a (small) platform, and it's only in exceptional cases that someone's platform is taken away.
+Second, whereas in the pre-Internet era there was a sharp dropoff in accessibility for all but the most popular content, on the Internet everything is available but the less popular things are just a little harder to find. Combined with the relative lack of a narrative filter on Internet content this means that you can find pretty much whatever view you like.
+
+Third, not only are there lots of channels, but the amount of content per channel is often huge. Being a regular consumer of content from Eric Weinstein, Scott Alexander, or Mencius Moldbug lets you basically import extremely nuanced worldviews into your mind. One might object "but you could always have done this by reading books". To a degree, but aside from the fact that most people vastly prefer consuming Internet info to reading books, the sharability of Internet content makes these narratives more powerful.
 -->
+<!---
+---draw a picture of the smoothness of the curve now vs. before when at the top people had lots of reach, then there was a big gap, then lots of people with smaller reach...
+-->
+<!---
+The other big difference is that on the Internet being unpopular doesn't fully deplatform you, it just makes you harder to find. There exists a long tail
+
+
+And the content that isn't the most popular isn't actually gone, you just have to try a little harder to seek it out. We've gone from a hard filter based on both popularity and narrative conformity to a soft filter based almost entirely on popularity.
+
+
+By default everyone has a (small) platform, and it's only in exceptional cases that someone's platform is taken away.
 
 The Internet has also reduced the cost of creating and distributing content. Lower costs mean that you're less reliant on ads to pay for your content distribution, and less restricted by corporate reluctance to be associated with controversial narratives.
 
-<!---
 The Internet also encourages advertizers to have to explicitly associate with the content their ads appear near. When buying a TV or magazine ad, advertizers know exactly which TV show or magazine their ad will appear in. This allows people to hold them accountable for implicitly endorsing unpopular content. An advertiser on YouTube had plausible deniability because they likely have no idea which channels their ads are being shown on.
 
 In the Internet era you can reach huge audiences with no advertising. If you do have ads and your content is controversial
--->
+
 
 
 Imagine creating a website vs. a print magazine, a podcast vs. a radio show, a YouTube channel vs. a TV show. When you don't have large creation and distribution costs, you can reach large audiences without large corporate advertizers. If you do have ads, the Internet allows a degree of separation between content producers and advertizers so controversial content can be monetized without the advertizer having to make an explicit decision to endorse whatever content their ad appeared near.
@@ -113,15 +143,48 @@ Many Silicon Valley venture capitalists have stopped talking to the New York Tim
 
 # **Doesn't all this "decentralization" exist at the mercy of big tech companies?**
 
-One might object that most of these popular individual brands are created on tech platforms like YouTube, Facebook, or Twitter. Anti-estalishment narratives mainly use these platforms to spread. So isn't this all just a manifestation of a tendency toward centralization? 
+One might object that most of these popular individual brands are created on tech platforms like YouTube, Facebook, or Twitter. Anti-elite narratives are mainly spread on these platforms, so isn't this all just a manifestation of a tendency toward centralization? 
 
-First, we should compare the effect of the Internet to what existed without it, not to some idealized world of perfect decentralization. Is the information landscape far more decentralized now than it was in 1990? Even if Twitter sometimes censors a link from the New York Post or adds a disclaimer to the President's tweet, the answer is obvious. 
+The key reason why this is not the case is that in this world of near-infinite information channels, deplatforming someone is much more conspicuous than in the pre-Internet era. As described previously, traditional media platforms always must exercise judgment about who they broadcast because of limited space, and they can use these judgments to deplatform people in ways that are not obvious.
 
-Second, if you already have a large audience you can survive a coordinated deplatforming across all major tech companies. [Alex Jones](https://en.wikipedia.org/wiki/Alex_Jones) was the target of a coordinated deplaforming by the big Western tech companies. This did reduce his influence, yet InfoWars still reaches more people than The Economist or Newsweek. In the pre-Internet era Alex Jones could not have anywhere close to his current influence. Someone like Rogan is effectively uncancelable. By relying on decentralized technologies like his email list, website, and podcast (podcasting architecture is not controlled by the major tech companies) he would remain hugely influential even if deplatformed by all major tech platforms.
+In the world of big tech platforms, deplatforming is the exception and the act of doing it attracts attention and demands an explanation.
 
-Third, although there are only a small handful of tech companies that dominate the market for user attention in the West, as of now they still have incentives to compete with one another for attention and to keep their users happy. Users are usually against deplatforming people, which is one reason it only happens to people like Alex Jones or [Richard Spencer](https://en.wikipedia.org/wiki/Richard_B._Spencer). 
+Big tech platforms provide do impose some narrative filter on information. There have been coordinated deplatformings of [Alex Jones](https://en.wikipedia.org/wiki/Alex_Jones) and [Richard Spencer](https://en.wikipedia.org/wiki/Richard_B._Spencer). Twitter recently prevented sharing of a story by the New York Post, and Twitter sometimes puts content warnings on tweets, including Trump's.
 
-Twitter reversed their decision to censor the New York Post after public outcry and political pressure from Republicans. Big tech companies like Twitter and Facebook do not want to get involved in censorship, but they currently face political pressure from both sizes and are not sure how best to avoid becoming a target. 
+It's important to compare this narrative filtering with what existed before the Internet. We're trying to figure out whether the Internet is leading us toward more centralization than what existed before, not whether it leads to more centralization than some imaginary ideal situation. 
+
+Jones and Spencer would never have had their narratives broadcast in mainstream media pre-Internet. Even after his deplatforming, Jones (via his site InfoWars) has greater reach than The Economist or Newsweek. Jones' most recent appearance on The Joe Rogan Experience has over 12 million YouTube views (YouTube's ban on Jones does not extend to other channels that host him), 33% more views than ABC Nightly News, the top rated network TV news show. 
+
+<!---
+Before he moved his postcast to Spotify, Joe Rogan's self-hosted postcast got about 11 million listens per episode, which is about how many people watch the top rated non-sports network TV show (NCIS). Podcast infrastructure is not under the control of big tech platforms, so
+-->
+
+After being heavily criticized by by conservative politicans and by users for blocking the Washington Post story about Hunter Biden, Twitter CEO Jack Dorsey said that they did the wrong thing and would change their policy.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Straight blocking of URLs was wrong, and we updated our policy and enforcement to fix. Our goal is to attempt to add context, and now we have capabilities to do that. <a href="https://t.co/ZLUw3YD887">https://t.co/ZLUw3YD887</a></p>&mdash; jack (@jack) <a href="https://twitter.com/jack/status/1317081843443912706?ref_src=twsrc%5Etfw">October 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div><br></div>
+
+Tech platforms usually engage in censorship for one of two reasons:
+
+(1) The employees and management of these companies tend to lean left, and sometimes they get overzealous and use their power unfairly. This is generally bad for the company as it creates a lot of controversy, alienates conservative users, and makes the company a target of conservative politicians.
+
+(2) To try to appease politicians on the left. Whereas politicians on the right are watching tech platforms for any sign of unfair censorship, politicians on the left are watching for signs of allowing the spread of 'misinformation'. Just as conservative politicians will berate them if they censor too much, liberal politicians will berate them if they don't censor enough. Although people in these companies are politically biased, at the very top the CEOs mostly want to avoid regulation and avoid having either side upset at them. It's a delicate balancing act.
+
+<!---
+Big tech companies like Twitter and Facebook do not want to get involved in censorship, but they currently face political pressure from both sizes and are not sure how best to avoid becoming a target. 
+-->
+
+<!---
+These companies would prefer to be neutral platforms who didn't have to worry about coming under fire from political factions.
+If a big tech platform clearly and unambiguously allied with the democratic party, it would be unwise because the amount of damage that could be done if the other party every got into power is enormous. in a 4 year term they could completely destroy the company. They're all trying to be Switzerland.
+-->
+<!---
+Someone like Rogan is effectively uncancelable. By relying on decentralized technologies like his email list, website, and podcast (podcasting architecture is not controlled by the major tech companies) he would remain hugely influential even if deplatformed by all major tech platforms.
+-->
+
+
+Finally, the game theory of tech plaform censorship has many moving parts and is unclear. Although Facebook, YouTube, and Twitter are very powerful, neither are as powerful as the US government, and the US government is divided into two factions who want these platforms to do different things. Republicans want less censorship, Democrats generally want more (under the guise of combating misinformation). In the West, the citizens also have a lot of power and seem to generally seem to be in favor of tech platform neutrality. These companies are also global and need to deal with other countries too. These companies also don't want to help one party come to permanent power like in China, since then they become completely at the mercy of that party. Generally you'd rather be Zuckerberg than any CEO of a Chinese company. So the tech companies want to keep government power managable, factions of government want to use tech to help themselves defeat their rivals, and citizens want to keep the power of both government and tech companies down (anti-elite sentiment.... does this go against liberal desire for gov expansion?)
 
 Systems like Bitcoin have shown us that a situation where many large actors could exercise their power in harmful ways can still be stable and aligned with user interests when those actors have the right economic incentives.
 
