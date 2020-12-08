@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Can The Internet Decentralize Society?
+title: Can The Internet Decentralize Power?
 permalink: /decentralizedinternet
 ---
 
@@ -24,7 +24,7 @@ I'll describe below how the Internet has already decentralized power to a large 
 was: Our information landscape has already been massively decentralized by the Internet 
 -->
 
-Compare the information landscape in Western countries now to that of 1990. Today we have easy access to a much wider variety of information and narratives, and these narratives tend to be more critical of large institutions and elites than the narratives people were exposed to in the past. 
+Compare the information landscapes in Western countries now vs. in 1990. Today we have easy access to a much wider variety of information and narratives, and these narratives tend to be more critical of large institutions and elites than the narratives people were exposed to in the past. 
 
 <!--
 People are able share information and build large audiences with minimal interference from intermediaries. This is a direct result of the Internet.
@@ -32,7 +32,7 @@ People are able share information and build large audiences with minimal interfe
  The effects on society have been enormous. Perhaps the most significant effect
  -->
  
- One effect of this has been the erosion of the perceived legitimacy of our institutions and elites, as described by [Martin Gurri](https://twitter.com/mgurri) in [The Revolt of the Public: And the Crisis of Authority in the New Millennium](https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143) ([podcast with transcript](https://80000hours.org/podcast/episodes/martin-gurri-revolt-of-the-public/), [ten minute version](https://www.youtube.com/watch?v=yhSaPi_zAyY&ab_channel=MartinGurri)).
+ These critical narratives have eroded of the perceived legitimacy of our institutions and elites, as described by [Martin Gurri](https://twitter.com/mgurri) in [The Revolt of the Public](https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143) ([podcast with transcript](https://80000hours.org/podcast/episodes/martin-gurri-revolt-of-the-public/), [ten minute version](https://www.youtube.com/watch?v=yhSaPi_zAyY&ab_channel=MartinGurri)).
 
 <!---
 To borrow some of Gurri's [talking points](https://80000hours.org/podcast/episodes/martin-gurri-revolt-of-the-public/): in the days of John F. Kennedy the US public's trust in government would range between 70-80%. Today it's under 30%. Trust in congress is under 20%. Can you imagine a network TV anchorman being voted the most truthworthy man in America today?
@@ -44,11 +44,13 @@ People can now dive as deeply as they want to into
 The amount of detailed anti-establishment narratives that people have access to today is astounding. Some of them started grassroots and have become mainstream (the social justice movement, Trumpism, Brexit and general anti-immigration sentiment), many are not quite mainstream but have huge followings (the alt-right, the dirtbag left, covid skepticism, climate change skepticism, antifa, ANnon, etc.)
 -->
 
+<!---
 Imagine you were disillusioned with your society's institutions in 1990. Where would you go for critical perspectives? How would you know which perspectives to investigate? 
 
 Maybe you'd go to the library and browse books on socialism or anarcho-capitalism, or try to find some anti-establishment magazines. Maybe you'd call up your edgiest friend and ask their advice. 
 
 Suppose you somehow found a critical narrative that appealed to you. To make it meaningful to your life it would help to find a community of likeminded people. How would you find them? If you wanted to convince more people of the truth of this narrative, how would you do so using the technology of 1990?
+-->
 
 <!---
 If it were in a book it might take a lot of work to figure out how it applies to current society. It'd be nice to have people to help with that,
@@ -57,13 +59,34 @@ If it were in a book it might take a lot of work to figure out how it applies to
 The Internet has made the number of potential content channels essentially infinite, and this has had a profound impact on how filtering of content happens.
 -->
 
-In the pre-Internet era, everyone was deplatformed by default. There were a limited number of TV channels, radio stations, and newspapers making it necessary for information distributors to exercise heavy curation. This gave information distributors cover to curate partly based on the content's narrative. They wanted to distribute profitable content, but they also wanted to trade favors with powerful people and institutions who didn't want to be criticized.
+In the pre-Internet era, everyone was deplatformed by default. 
 
-In addition to there being far fewer communication channels, owning a large-scale communication channel pre-Internet was expensive and made information distributors more dependent on advertisers who were often not confortable with anti-estalbishment narratives. 
+There were a limited number of TV channels, radio stations, and newspapers making it necessary for information distributors to exercise heavy curation. This gave information distributors cover to curate partly based on the content's narrative. They wanted to distribute profitable content, but they also wanted to trade favors with powerful people and institutions who didn't want to be criticized.
 
-It's still true today that only a small percentage of people have a large platform. There's still a limited amount of attention to go around. But filtering of content is now done almost entirely by popularity instead of by both popularity and narrative conformity. 
+Limited informaiton channels also made it more profitable to try to appeal to a broad swath of the population. The high costs of pre-Internet information distribution gave advertisers more control over content. Both of these factors limited anti-estalbishment narratives.
 
-Internet content producers often produce so much realtime information that people no longer need to ever return to the fold of mainstream narratives. Before the Internet even if you were reading some subversive books and magazines you still probably got much of your news from TV or newspapers. Today someone might have most of their understanding of what's going on in society filled in by regularly listening to the The Joe Rogan Experience, Eric Weinstein, Chapo Trap House, and reading Scott Alexander.
+<!---
+In addition to there being far fewer communication channels, owning a communication channel pre-Internet was expensive. Information distributors were dependent on advertisers who were often not comfortable with anti-estalbishment narratives. 
+-->
+
+Today (almost) everyone can have a platform, but it's still true that only a small percentage of people can have a large platform. There's still a fixed amount of attention to go around. Content on the Internet is implicitly filtered, but this filtering is done mostly based on popularity, without the strict narrative filter that exists in legacy media.
+
+<!---
+Maybe the best example of this is Joe Rogan, whose podcasts have wider reach than the top network TV news shows. A recent guest on Rogan's podcast, Alex Jones, is one of the rare people to have been deplatformed by almost all of the big Internet tech companies. Yet because of the fairly decentralized nature of the Internet, Jones's website InfoWars still gets almost ten times as many readers as The Economist despite elites being almost unilaterally against him. 
+-->
+
+<!---Jones is still able to appear on the most popular podcast in the world. Rogan's podcast is now hosted by Spotify, but because podcasting infrastructure is not controlled by the major tech firms he could always return to independent distribution
+
+ recently had an episode with Alex Jones. Jones is one of the rare people who have been deplatformed by most of the big Internet tech companies
+ -->
+
+So much information is produced on the Internet that people no longer need to ever return to the fold of mainstream narratives. Before the Internet even if you were reading some subversive books and magazines you still probably got much of your news from TV or newspapers. Today someone might get almost all of their understanding of what's going on in the world and what it means from The Joe Rogan Experience, Eric Weinstein, Chapo Trap House, Scott Alexander, and reddit.
+
+Governments, the media, corporations, and educational institutions can no longer control which narratives are taken seriously in society, and this is a direct result of the Internet.
+
+<!---
+[critical narratives did exist in the pre-internet era, they just had a hard time spreading and were much less sophisticated. you might have met someone once who told you that they world was run by an elite pedophile ring, but only on the internet can you easily find the most convincing people in the world who subscribe to this theory, and only on the internet can bleievers in this theory easily share information to build their theory into a more complex, self-consistent system.]
+-->
 
 <!---
 When huge numbers of narratives compete without much narrative filter it results both in huge anti-elite platforms like The Joe Rogan Experience, and a long tail of influencial but less popular anti-elite narratives from Eric Weinstein, Scott Alexander, Mencius Moldbug, Chapo Trap House, etc. Whereas before you'd have to go looking hard for this type of anti-elite view, now they're all just a click away from every Internet user.
@@ -143,33 +166,48 @@ Many Silicon Valley venture capitalists have stopped talking to the New York Tim
 
 # **Doesn't all this "decentralization" exist at the mercy of big tech companies?**
 
-One might object that most of these popular individual brands are created on tech platforms like YouTube, Facebook, or Twitter. Anti-elite narratives are mainly spread on these platforms, so isn't this all just a manifestation of a tendency toward centralization? 
+One might object that most anti-elite narratives are spread via big tech platforms like YouTube, Facebook, or Twitter. These companies are becoming more and more powerful, isn't this just a manifestation of a tendency toward centralization? 
 
-The key reason why this is not the case is that in this world of near-infinite information channels, deplatforming someone is much more conspicuous than in the pre-Internet era. As described previously, traditional media platforms always must exercise judgment about who they broadcast because of limited space, and they can use these judgments to deplatform people in ways that are not obvious.
+The reason why this hasn't lead to more centralization of information control is that in the world of near-infinite information channels, deplatforming someone is much more conspicuous than in the pre-Internet era. As described above, traditional media platforms must always exercise judgment about who they broadcast because of limited space, and they can use these judgments to deplatform people for reasons that are not obvious.
 
 In the world of big tech platforms, deplatforming is the exception and the act of doing it attracts attention and demands an explanation.
 
-Big tech platforms provide do impose some narrative filter on information. There have been coordinated deplatformings of [Alex Jones](https://en.wikipedia.org/wiki/Alex_Jones) and [Richard Spencer](https://en.wikipedia.org/wiki/Richard_B._Spencer). Twitter recently prevented sharing of a story by the New York Post, and Twitter sometimes puts content warnings on tweets, including Trump's.
+Tech platforms do impose some narrative filter on information. There have been coordinated deplatformings of [Alex Jones](https://en.wikipedia.org/wiki/Alex_Jones) and [Richard Spencer](https://en.wikipedia.org/wiki/Richard_B._Spencer). Twitter recently prevented sharing of a story by the New York Post, and Twitter sometimes puts content warnings on tweets, including Donald Trump's. Tech platforms have started instututing "soft" filters on some content by reducing the likelyhood that it appears in users' feeds.
 
-It's important to compare this narrative filtering with what existed before the Internet. We're trying to figure out whether the Internet is leading us toward more centralization than what existed before, not whether it leads to more centralization than some imaginary ideal situation. 
+It's important to compare this narrative filtering with what existed before the Internet. We're trying to figure out whether the Internet is leading us toward more centralization than what existed before, not whether it leads to more centralization than an imaginary ideal situation. 
 
-Jones and Spencer would never have had their narratives broadcast in mainstream media pre-Internet. Even after his deplatforming, Jones (via his site InfoWars) has greater reach than The Economist or Newsweek. Jones' most recent appearance on The Joe Rogan Experience has over 12 million YouTube views (YouTube's ban on Jones does not extend to other channels that host him), 33% more views than ABC Nightly News, the top rated network TV news show. 
+Jones and Spencer would never have had their narratives broadcast on mainstream media pre-Internet. Even after his deplatforming, Jones (via his site InfoWars) has almost ten times greater reach than The Economist. Jones' most recent appearance on The Joe Rogan Experience has over 15 million YouTube views (YouTube's ban on Jones does not extend to other channels that host him), 60% more views than ABC Nightly News, the top rated network TV news show.
 
 <!---
 Before he moved his postcast to Spotify, Joe Rogan's self-hosted postcast got about 11 million listens per episode, which is about how many people watch the top rated non-sports network TV show (NCIS). Podcast infrastructure is not under the control of big tech platforms, so
 -->
 
-After being heavily criticized by by conservative politicans and by users for blocking the Washington Post story about Hunter Biden, Twitter CEO Jack Dorsey said that they did the wrong thing and would change their policy.
+
+<!---
+After being criticized by by conservative politicans and by users for blocking the Washington Post story about Hunter Biden, Twitter CEO Jack Dorsey said that they did the wrong thing and would change their policy.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Straight blocking of URLs was wrong, and we updated our policy and enforcement to fix. Our goal is to attempt to add context, and now we have capabilities to do that. <a href="https://t.co/ZLUw3YD887">https://t.co/ZLUw3YD887</a></p>&mdash; jack (@jack) <a href="https://twitter.com/jack/status/1317081843443912706?ref_src=twsrc%5Etfw">October 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div><br></div>
+
+-->
+
+In the West, tech platforms have provided much more neutral platforms than what existed before the Internet. Later in the essay we'll look at whether they might one day use their growing power to swing the pendulum back in the other direction.
+
+
+<!---
+
+Later in the essay we'll return to the game theory between tech companies, governments, and citizens, and whether 
+-->
+
+<!---
 
 Tech platforms usually engage in censorship for one of two reasons:
 
 (1) The employees and management of these companies tend to lean left, and sometimes they get overzealous and use their power unfairly. This is generally bad for the company as it creates a lot of controversy, alienates conservative users, and makes the company a target of conservative politicians.
 
 (2) To try to appease politicians on the left. Whereas politicians on the right are watching tech platforms for any sign of unfair censorship, politicians on the left are watching for signs of allowing the spread of 'misinformation'. Just as conservative politicians will berate them if they censor too much, liberal politicians will berate them if they don't censor enough. Although people in these companies are politically biased, at the very top the CEOs mostly want to avoid regulation and avoid having either side upset at them. It's a delicate balancing act.
+-->
 
 <!---
 Big tech companies like Twitter and Facebook do not want to get involved in censorship, but they currently face political pressure from both sizes and are not sure how best to avoid becoming a target. 
@@ -183,24 +221,37 @@ If a big tech platform clearly and unambiguously allied with the democratic part
 Someone like Rogan is effectively uncancelable. By relying on decentralized technologies like his email list, website, and podcast (podcasting architecture is not controlled by the major tech companies) he would remain hugely influential even if deplatformed by all major tech platforms.
 -->
 
-
-Finally, the game theory of tech plaform censorship has many moving parts and is unclear. Although Facebook, YouTube, and Twitter are very powerful, neither are as powerful as the US government, and the US government is divided into two factions who want these platforms to do different things. Republicans want less censorship, Democrats generally want more (under the guise of combating misinformation). In the West, the citizens also have a lot of power and seem to generally seem to be in favor of tech platform neutrality. These companies are also global and need to deal with other countries too. These companies also don't want to help one party come to permanent power like in China, since then they become completely at the mercy of that party. Generally you'd rather be Zuckerberg than any CEO of a Chinese company. So the tech companies want to keep government power managable, factions of government want to use tech to help themselves defeat their rivals, and citizens want to keep the power of both government and tech companies down (anti-elite sentiment.... does this go against liberal desire for gov expansion?)
-
-Systems like Bitcoin have shown us that a situation where many large actors could exercise their power in harmful ways can still be stable and aligned with user interests when those actors have the right economic incentives.
-
 # **What about China?**
 
-The big tech companies in China cooperate more closely with the [CCP](https://en.wikipedia.org/wiki/Chinese_Communist_Party) than American tech companies do with the US government. They've maintained a tigher control on the flow of information and on narratives than Western governments have been able to. If a similar situation of tight cooperation between tech and government were to develop in Western countries it would be pretty concerning. Fortunately it may not be possible for this sort of sitation to develop in the West.
+The big tech companies in China cooperate more closely with the [Chinese Communist Party](https://en.wikipedia.org/wiki/Chinese_Communist_Party) than American tech companies do with the US government. The CCP have maintained tigher control on the flow of information and on narratives than Western governments have been able to. If a similar situation of close cooperation between tech and government were to develop in Western countries it could lead to significant centralization of power. 
 
-The key to this argument is that different initial conditions can lead to very different equilibria. When the Internet started becoming widely used, the CCP started from a place of higher information control than Western governments. They made a deliberate choice to maintain high information control over the course of the Internet's rise, and they've largely been successful. This took a lot of effort and planning. Western countries adopted a more laissez faire attitude and as a result have suffered the crisis of institutional authority described above.
+It may unlikely for this sort of sitation to develop in the West. 
 
-Imagine two surfers as a wave approaches. One starts in a good position on top of his board, and is able to catch and ride the wave. The other surfer starts in the water and doesn't see the wave. It crashes down on him, followed by wave after wave continuing to crash down on him as he struggles just to catch his breath. Maybe if the second surfer could somehow get on top of his board he'd be able to ride safely to shore, but that may not be possible given his starting position and where he is in the ocean now.
+When the Internet started becoming widely used, the CCP started from a place of higher information control than Western governments. They made a deliberate choice to maintain high information control over the course of the Internet's rise, and they've largely been successful. This took a lot of effort and planning. 
 
-Similarly, maybe the US government could have avoided the crisis of authority and pressured tech companies into helping it solidify its power if it had more foresight before the Internet developed. But the US government is now in a situation where it lacks legitimacy. Without legitimacy it's much harder to enact and enforce the far reaching policies (mandated encryption backdoors for instance) that would be needed to transition to high information control over its citizens while being constantly battered by the legitimacy-eroding power of the Internet.
+Western countries adopted a more laissez faire attitude and as a result have suffered the crisis of institutional authority described above.
 
-# **The details of technological change matter and are hard to predict**
+Maybe the US government could have avoided the crisis of authority and pressured tech companies into helping it solidify its power if it had more foresight before the Internet developed. But the US government is now in a situation where it lacks legitimacy. Without legitimacy it's much harder to enact and enforce the far reaching policies (mandated encryption backdoors for instance) that would be needed to transition to high information control over its citizens while being constantly battered by the legitimacy-eroding power of the Internet.
 
-It didn't have to be the case that that end to end encryption could be done in a user friendly enough way to be feasible in the [Signal](https://en.wikipedia.org/wiki/Signal_(software)) app. But the innovations people made just caused things to work out that way. As a result, people are able to communicate privately over the Internet without a lot of hassle. 
+# **Technological tools for resisting centralized power are proliferating**
+
+Digital privacy advocates have been trying to get people to use end to end encryption for decades. Until recently they had no significant success because there was no user-friendly option. 
+
+Now 2 billion WhatApp users have end to end encryption enabled by default, and Zoom just released [their own end to end encryption feature](https://blog.zoom.us/zoom-rolling-out-end-to-end-encryption-offering/). Signal offers the same end to end encryption as WhatApp but reveals less metadata and is open source. Signal is as usable as any other messaging app and has become widely used among Black Lives Matter protesters, the European Commission, and the UK's ruling Conservative party. It's becoming common knowledge among savvy people that if you care about privacy you should use Signal.
+
+Some Western governments, including the US, have made efforts to [ban end to end encryption](https://portswigger.net/daily-swig/western-governments-double-down-efforts-to-curtail-end-to-end-encryption). Tech companies and security experts are against such bans. Given that the Intenet has already stripped Western governments of much of their perceived authority, it's far from clear that citizens will hand their governments the power to read all of their messages.
+
+Burja claims that the US government has already mandated harware backdoors, but there are in fact no such laws (the link given in support of this is about the government gaining access to data stored by cloud service providers). 
+
+The state of the art for law enforcement trying to access an iPhone's data that they have posession of is trying every passcode combination, which you can protect yourself against with a long passcode (10 digits will take about 12 years). There are [many](https://en.wikipedia.org/wiki/FBI%E2%80%93Apple_encryption_dispute) instances of the FBI and NSA being unable to get into an iPhone that is properly secured. 
+
+<!---
+Governments may be able to hack into your phone using [sophisticated spyware](https://en.wikipedia.org/wiki/Pegasus_(spyware)) if they can get you to click on a link, but proably not if you have the latest iPhone OS. 
+
+In general if have an iPhone with the latest OS and have a long passphrase the government won't be able to access your phone's content regardless of whether they physically have the phone. Some devices may be backdoored, especially Chinese divices, but if so this is done in secret. It's likely that the majority of phones, laptops, and desktop devices built in Western countries are not backdoored.
+-->
+
+
 
 <!---
 (We'll return to the issue of whether governments can read your Signal messages later).
