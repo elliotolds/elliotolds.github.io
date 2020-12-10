@@ -25,7 +25,7 @@ In the pre-Internet era everyone was deplatformed by default. There were a limit
 The small number of information channels meant there was no room for niche content -- it was most profitable to try to appeal to a broad swath of the population. The high costs of pre-Internet information distribution gave advertisers more leverage over content. Both of these factors limited anti-establishment narratives.
 
 
-On the Internet almost everyone can have a platform, but it's still true that only a small percentage of people have an large platform. There's still a fixed amount of attention to go around. Content on the Internet is implicitly filtered (everyone only sees a minuscule fraction of all content produced) but this filtering is done mostly based on popularity. There is some content-based filtering but far less than exists in legacy media.
+On the Internet almost everyone can have a platform, but it's still true that only a small percentage of people have a large platform. There's still a fixed amount of attention to go around. Content on the Internet is implicitly filtered (everyone only sees a minuscule fraction of all content produced) but this filtering is done mostly based on popularity. There is some content-based filtering but far less than exists in legacy media.
 
 
 
