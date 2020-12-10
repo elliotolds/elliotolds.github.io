@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Will Technology Decentralize Power?
-permalink: /decentralizedinternet_ROUGH_DRAFT
+permalink: /decentralizedinternetROUGHDRAFT
 ---
 
 What will be the long run effect of technological progress on the distribution of power? Will governments and big tech companies closely cooperate to strengthen their control over society?  Or can the [cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) dream of technology as a tool of individual freedom and privacy be realized?
 
-These questions are discussed in [The Centralized Internet Is Inevitable](https://palladiummag.com/2020/10/19/the-centralized-internet-is-inevitable/) by [Samo Burja](https://twitter.com/SamoBurja) and in [this podcast](https://palladiummag.com/2020/10/30/palladium-podcast-46-samo-burja-on-why-regulating-online-speech-is-unavoidable/) featuring Burja and [Palladium](https://palladiummag.com/) editor and cofounder [Wolf Tivy](https://twitter.com/wolftivy). Their position is that the Internet is an inherently centralizating technology. 
+These questions are discussed in [The Centralized Internet Is Inevitable](https://palladiummag.com/2020/10/19/the-centralized-internet-is-inevitable/) by [Samo Burja](https://twitter.com/SamoBurja) and in [this podcast](https://palladiummag.com/2020/10/30/palladium-podcast-46-samo-burja-on-why-regulating-online-speech-is-unavoidable/) featuring Burja and [Palladium](https://palladiummag.com/) editor and cofounder [Wolf Tivy](https://twitter.com/wolftivy). Their position is that the Internet is an inherently centralizing technology. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The future is total surveillance for total compliance of every action, word, and thought. This is the world we are bringing into being with technology.<br><br>The unavoidable telos of technological means is totalitarian power.</p>&mdash; Wolf Tivy (@wolftivy) <a href="https://twitter.com/wolftivy/status/1197295213565239296?ref_src=twsrc%5Etfw">November 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -22,10 +22,10 @@ Compare the information landscape in Western countries now to what it was in 199
 
 In the pre-Internet era everyone was deplatformed by default. There were a limited number of TV channels, radio stations, and newspapers making it necessary for information distributors to exercise heavy curation. This gave information distributors cover to curate content partly based on the its narrative. They wanted to distribute profitable content but they also wanted to trade favors with powerful people and institutions who didn't like criticism.
 
-The small number of informaiton channels meant there was no room for niche content -- it was most profitable to try to appeal to a broad swath of the population. The high costs of pre-Internet information distribution gave advertisers more leverage over content. Both of these factors limited anti-estalbishment narratives.
+The small number of information channels meant there was no room for niche content -- it was most profitable to try to appeal to a broad swath of the population. The high costs of pre-Internet information distribution gave advertisers more leverage over content. Both of these factors limited anti-establishment narratives.
 
 
-On the Internet almost everyone can have a platform, but it's still true that only a small percentage of people have an large platform. There's still a fixed amount of attention to go around. Content on the Internet is implicitly filtered (everyone only sees a miniscule fraction of all content produced) but this filtering is done mostly based on popularity. There is some content-based filtering but far less than exists in legacy media.
+On the Internet almost everyone can have a platform, but it's still true that only a small percentage of people have an large platform. There's still a fixed amount of attention to go around. Content on the Internet is implicitly filtered (everyone only sees a minuscule fraction of all content produced) but this filtering is done mostly based on popularity. There is some content-based filtering but far less than exists in legacy media.
 
 
 
@@ -39,11 +39,11 @@ Governments, the media, corporations, and educational institutions can no longer
 
 One might object that most anti-establishment narratives spread via YouTube, Facebook, and Twitter, which are all becoming increasingly powerful platforms. Isn't this just a manifestation of a tendency toward centralization? 
 
-Control of information is decentralizing depsite this because in a world of with near-infinite information channels deplatforming someone is more conspicuous than in a world of few information channels. Traditional media platforms must always exercise judgment about who they broadcast because of limited space, and they can use these judgments to deplatform people for reasons that are not obvious.
+Control of information is decentralizing despite this because in a world of with near-infinite information channels deplatforming someone is more conspicuous than in a world of few information channels. Traditional media platforms must always exercise judgment about who they broadcast because of limited space, and they can use these judgments to deplatform people for reasons that are not obvious.
 
-On big tech platforms deplatforming is the exception and the act of doing it attracts attention and demands an explanation.
+On Internet platforms deplatforming is the exception and the act of doing it attracts attention and demands an explanation.
 
-Tech platforms do impose some narrative filter on information. There have been coordinated deplatformings of [Alex Jones](https://en.wikipedia.org/wiki/Alex_Jones) and [Richard Spencer](https://en.wikipedia.org/wiki/Richard_B._Spencer). Twitter recently prevented sharing of [a story](https://nypost.com/2020/10/14/email-reveals-how-hunter-biden-introduced-ukrainian-biz-man-to-dad/) by the New York Post (a decision Twitter later [said they were wrong to do](https://twitter.com/jack/status/1317081843443912706)), and Twitter sometimes puts warnings on tweets (including Donald Trump's). Tech platforms have started instututing "soft" filters on some content by reducing the likelyhood that it appears in users' feeds. This week YouTube [said it would start deleting videos](https://www.theverge.com/2020/12/9/22165355/youtube-biden-election-victory-misinformation-rules-remove-content-oan) which claim that the 2020 US election results are fraudulent.
+Tech platforms do impose some narrative filter on information. There have been coordinated deplatformings of [Alex Jones](https://en.wikipedia.org/wiki/Alex_Jones) and [Richard Spencer](https://en.wikipedia.org/wiki/Richard_B._Spencer). Twitter recently prevented sharing of [a story](https://nypost.com/2020/10/14/email-reveals-how-hunter-biden-introduced-ukrainian-biz-man-to-dad/) by the New York Post (a decision Twitter later [said they were wrong to do](https://twitter.com/jack/status/1317081843443912706)), and Twitter sometimes puts warnings on tweets (including Donald Trump's). Tech platforms have started instituting "soft" filters on some content by reducing the likelihood that it appears in users' feeds. This week YouTube [said it would start deleting videos](https://www.theverge.com/2020/12/9/22165355/youtube-biden-election-victory-misinformation-rules-remove-content-oan) which claim that the 2020 US election results are fraudulent.
 
 It's important to compare this narrative filtering with what existed before the Internet. The relevant question is whether the Internet is leading us toward more centralization than what existed before, not whether it's leading us to more centralization than we think is ideal. 
 
@@ -70,7 +70,7 @@ When groups are in competition they tend to focus on and take pride in their dif
 
 -->
 
-# **Technological tools for resisting centralized power are becoming widespread**
+# **Tools for resisting centralized power are becoming widespread**
 
 Digital privacy advocates had tried and failed to get people to use end-to-end encryption for decades. Technical challenges prevented the existence of user-friendly options and people didn't care enough to go through the cumbersome process of using these tools. 
 
@@ -86,13 +86,13 @@ We are in the midst of a massive global rollout of end-to-end encryption. For th
 
 Thousands of software developers and researchers are now working on another problem: creating a private, uncensorable form of digital money that's easy to use and can support billions of users. If they succeed in separating money from the state it would make it much more difficult for authoritarian governments to control their citizens.
 
-Cryptocurrency isn't yet widespread 11 years after its creation and there are many unsolved problems, but progress is steadily being made and 11 years isn't that long. It was 25 years between the release of [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) (difficult to use software for end-to-end encrption) and when end-to-end encryption became widely used. It was at least 20 years between the invention of the Internet and when its decentralizing effects on the flow of information became significant.
+Cryptocurrency isn't yet widespread 11 years after its creation and there are many unsolved problems, but progress is steadily being made and 11 years isn't that long. It was 25 years between the release of [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) (difficult to use software for end-to-end encryption) and when end-to-end encryption became widely used. It was at least 20 years between the invention of the Internet and when its decentralizing effects on the flow of information became significant.
 
 
 
 # **Can't governments backdoor our software and hardware?**
 
-Western governments have tried for decades to [ban end-to-end encryption](https://portswigger.net/daily-swig/western-governments-double-down-efforts-to-curtail-end-to-end-encryption) and have mostly failed, with the partial exception of Australia's recent [anti-encryption law](https://fee.org/articles/australia-s-unprecedented-encryption-law-is-a-threat-to-global-privacy/). This law has been [controversial](https://www.gizmodo.com.au/2020/08/assistance-and-access-law-encrypted-messaging-explained/) and has been blamed for [reducing the competitiveness of Australia's tech industrsty](https://www.zdnet.com/article/labor-to-introduce-bill-to-fix-australian-encryption-laws-it-voted-for/).
+Western governments have tried for decades to [ban end-to-end encryption](https://portswigger.net/daily-swig/western-governments-double-down-efforts-to-curtail-end-to-end-encryption) and have mostly failed, with the partial exception of Australia's recent [anti-encryption law](https://fee.org/articles/australia-s-unprecedented-encryption-law-is-a-threat-to-global-privacy/). This law has been [controversial](https://www.gizmodo.com.au/2020/08/assistance-and-access-law-encrypted-messaging-explained/) and has been blamed for [reducing the competitiveness of Australia's tech industry](https://www.zdnet.com/article/labor-to-introduce-bill-to-fix-australian-encryption-laws-it-voted-for/).
 
 I call this law a partial exception because Australians can still use end-to-end encryption via Signal and WhatsApp. It's not technically possible for the Signal team to comply with the law, so the Australian government's options involve blocking Internet traffic to and from Signal servers or pressuring Apple and Google to remove Signal from their Australian app stores. They've done neither of these so far, and [Signal's blog post](https://signal.org/blog/setback-in-the-outback/) about this legislation reveals how to easily bypass both of these measures.
 
@@ -104,11 +104,11 @@ The US government has worked with tech companies to [secretly get access to citi
 The bloomberg story often cited as evidence of Chinese hardware being backdoored is widely disputed by security experts. The general consensus is that bloomberg should have retracted the story. There are suspicions that Lenevo hardware may have been backdoored but this has never been established.
 -->
 
-The most effective tehcnique for governments trying to access data on an iPhone in their posession is [trying every passcode combination](https://www.nytimes.com/2020/10/21/technology/iphone-encryption-police.html). Users can protect themselves againts this with long passcodes (10 digits will take about 12 years). There are [many](https://en.wikipedia.org/wiki/FBI%E2%80%93Apple_encryption_dispute) instances of the FBI and NSA being unable to get into an iPhone. 
+The most effective technique for governments trying to access data on an iPhone in their possession is [trying every passcode combination](https://www.nytimes.com/2020/10/21/technology/iphone-encryption-police.html). Users can protect themselves against this with long passcodes (10 digits will take about 12 years). There are [many](https://en.wikipedia.org/wiki/FBI%E2%80%93Apple_encryption_dispute) instances of the FBI and NSA being unable to get into an iPhone. 
 
-Governments may be able to hack into your phone remotely using [sophisticated spyware](https://en.wikipedia.org/wiki/Pegasus_(spyware)) if they can get you to click on a link, but proably not if you have the latest iPhone OS.
+Governments may be able to hack into your phone remotely using [sophisticated spyware](https://en.wikipedia.org/wiki/Pegasus_(spyware)) if they can get you to click on a link, but probably not if you have the latest iPhone OS.
 
-Given that the Internet has already stripped Western governments of much of their perceived authority, it's far from clear that citizens will hand these governments the additional power they need to access all of our data. We are not (yet) living in an authoritarian state -- Western politicians still fear the consequences of enacting and enforcing unpopular laws.
+Given that the Internet has already stripped Western governments of much of their perceived authority, it's far from clear that citizens will hand these governments the additional power they need to access all of our data. We are not yet living in an authoritarian state -- Western politicians still fear the consequences of enacting and enforcing unpopular laws.
 
 
 # **Power dynamics in the US**
@@ -119,7 +119,7 @@ As discussed above the US is in a situation of low information control and low l
 
 However it's not in the interest of tech companies to help the US government become authoritarian. Such a system would lock tech companies into a subservient role, subject to the whims of the ruling party. Zuckerberg, Bezos, and Page do not want to be in the position of Jack Ma, who was likely [forced out of Alibaba](https://www.wsj.com/articles/alibabas-jack-ma-denies-beijing-forced-him-out-1537280485) by the CCP. They'd prefer a world more like the one described in [The Soverign Individual](https://www.nateliason.com/notes/sovereign-individual), where governments are relatively weak and are forced to compete with each other to attract companies and citizens.
 
-In the US the balance of power between tech companies, government, and citizens is more evenly distributed than in China. The US government could not force Zuckerberg to step down without creating public backlash and causing the politicians repsonsible to lose power. In the struggle between tech platforms and the US government the support of the public is critical, and tech platforms are in a better position to influence public opinion than the government.
+In the US the balance of power between tech companies, government, and citizens is more evenly distributed than in China. The US government could not force Zuckerberg to step down without creating public backlash and causing the politicians responsible to lose power. In the struggle between tech platforms and the US government the support of the public is critical, and tech platforms are in a better position to influence public opinion than the government.
 
 <!--
 The internal divisions and checks and balances in the US government serve to make it easier for the US tech industry to avoid being brought into the fold of an authoritarian regime.
@@ -129,9 +129,9 @@ The internal divisions and checks and balances in the US government serve to mak
 Power within the US government is also more distributed than power within the CCP. There is more room for Facebook to play the Democratic and Republican sides against each other for its own advantage than for a Chinese company to try a similar move with factions within the CCP. 
 -->
 
-Tech companies are roughly trying to make as much money as possible over the long run. An impportant part of this goal is not unnecessarily becoming a political target. The censorship decisions of these companies are best understood as a delicate balancing act -- censor too much and the right becomes upset, censor too little and the left becomes upset (for helping to spread alleged misinformation or hate). [PRISM](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet) gives the government a lot of data but we're far from it being used for political control. Tech companies frequently [push back](https://www.apple.com/customer-letter/) against government overeach when they have the support of citizens.
+Tech companies are roughly trying to make as much money as possible over the long run. An important part of this goal is not unnecessarily becoming a political target. The censorship decisions of these companies are best understood as a delicate balancing act -- censor too much and the right becomes upset, censor too little and the left becomes upset (for helping to spread alleged misinformation or hate). [PRISM](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet) gives the government a lot of data but we're far from it being used for political control. Tech companies frequently [push back](https://www.apple.com/customer-letter/) against government overreach when they have the support of citizens.
 
-There may be a clever strategy that allows the US government to becaome authoritarian despite the tech industry and the public being aligned against that outcome and despite its current lack of legitimacy, but it's not clear what that would look like.
+There may be a clever strategy that allows the US government to become authoritarian despite the tech industry and the public being aligned against that outcome and despite its current lack of legitimacy, but it's not clear what that would look like.
 
 <!---
 They will often cooperate with the government when it's expedient or when they believe enough of the public would be against them if they didn't. 
@@ -147,7 +147,7 @@ nuclear bombs are another example, on the scale of nations. allows north korea t
 
 There are many effects of the Internet -- some centralizing, some decentralizing. Most Internet communication is mediated by a small number of companies. China has shown us that if these companies can be captured by a government the effect on power is strongly centralizing. In the West we see more of a stalemate between tech platforms and governments, and caution from tech platforms about using their power. The practical effect is that the Internet has decentralized the flow of information in the West and stripped governments of their authority. The overall growth of the Internet is making people and businesses less dependent on physical location, reducing the leverage that governments have over citizens and companies -- another decentralizing effect.
 
-How this all plays out depends on the specific details of current and future technology, the existing structure of power when the technology is developed, and many other difficult to analyze factors. There are strong forces pushing in both directions and it would be a mistake to believe that either outcome is inevitable. 
+How this all plays out depends on the specific details of current and future technology, the existing structure of power when this technology is developed, and many other difficult to analyze factors. Neither greater centralization nor greater decentralization is inevitable. For those of us who would prefer to avoid an authoritarian future it would be a mistake to prematurely resign ourselves to this fate. 
 
 <!---
 # **Inevitability**
