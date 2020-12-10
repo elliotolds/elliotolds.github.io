@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Can Technology Decentralize Power?
-permalink: /decentralizedinternet
+title: Will Technology Decentralize Power?
+permalink: /decentralizedinternetROUGHTDRAFT
 ---
 
-What will be the long run effect of the Internet on the distribution of power? Will governments and big tech companies closely cooperate to strengthen their control over society?  Or can the [cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) dream of the Internet as a tool of individual freedom and privacy be realized?
+What will be the long run effect of technological progress on the distribution of power? Will governments and big tech companies closely cooperate to strengthen their control over society?  Or can the [cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) dream of technology as a tool of individual freedom and privacy be realized?
 
 These questions are discussed in [The Centralized Internet Is Inevitable](https://palladiummag.com/2020/10/19/the-centralized-internet-is-inevitable/) by [Samo Burja](https://twitter.com/SamoBurja) and in [this podcast](https://palladiummag.com/2020/10/30/palladium-podcast-46-samo-burja-on-why-regulating-online-speech-is-unavoidable/) featuring Burja and [Palladium](https://palladiummag.com/) editor and cofounder [Wolf Tivy](https://twitter.com/wolftivy). Their position is that the Internet is an inherently centralizating technology. 
 
@@ -12,7 +12,7 @@ These questions are discussed in [The Centralized Internet Is Inevitable](https:
 
 <div><br></div>
 
-I'll describe below how the Internet has already decentralized power to a large degree and why we might expect a continuation of this trend.
+I'll describe below how technology has already decentralized power to a large degree and why we might expect a continuation of this trend.
 
 # **The Internet has decentralized control of information**
 
@@ -56,13 +56,15 @@ Jones and Spencer would never have had their narratives broadcast on mainstream 
 
 # **What about China?**
 
-The big tech companies in China cooperate more closely with the [Chinese Communist Party](https://en.wikipedia.org/wiki/Chinese_Communist_Party) than US tech companies do with the US government. If a similar situation of close cooperation between tech platforms and government developed in Western countries it could lead to significant centralization of power. Fortunately there may be no plausible path for this sort of sitation to develop in the West. 
+The big tech companies in China cooperate more closely with the [Chinese Communist Party](https://en.wikipedia.org/wiki/Chinese_Communist_Party) than US tech companies do with the US government. If a similar situation of close cooperation between tech platforms and government developed in Western countries it could lead to significant centralization of power. However there may be no plausible path for this sort of sitation to develop in the West. 
 
 When the Internet was first becoming widely used the CCP was in a position of higher information control than Western governments. They made a deliberate choice to maintain high information control over the course of the Internet's rise, and they've largely been successful. This took a lot of effort and planning. 
 
 Western countries made little effort to control the flood of information stemming from the Internet and as a result have suffered the crisis of institutional authority described previously.
 
 Maybe the US government could have avoided the crisis of authority and pressured tech companies into helping it solidify its power if it had more foresight before the Internet developed. But the US government is now in a situation where it lacks legitimacy and has little control of the narratives its citizens are exposed to. Without these things it's difficult to enact and enforce the far reaching policies (mandated encryption backdoors for instance) that would be needed to transition to high information control over its citizens.
+
+One factor that may make it especially difficult for the US government to take an authoritarian path is that when groups are in competition they tend to focus on and take pride in their differences. The narrative that "In the US we are free, unlike in China" is appealing to US citizens and will likely make them more reluctant to accept authoritarian governance than if China was not ascendant.
 
 <!---
 
@@ -109,15 +111,15 @@ Governments may be able to hack into your phone remotely using [sophisticated sp
 Given that the Internet has already stripped Western governments of much of their perceived authority, it's far from clear that citizens will hand these governments the additional power they need to access all of our data. We are not (yet) living in an authoritarian state -- Western politicians still fear the consequences of enacting and enforcing unpopular laws.
 
 
-# **Power dynamics**
+# **Power dynamics in the US**
 
-When an authoritarian government is able to bring its advanced tech industry fully under its control it creates a combined power structure that is difficult for citizens to fight back against. The government can use the tech platforms' control of information to legitimize its authoritarian actions, as well as quickly find and quell dissent. 
+When an authoritarian government is able to bring its advanced tech industry fully under its control it creates a combined power structure that is difficult for citizens to fight back against. The government can use the tech platforms' control of information to legitimize its authoritarian actions, as well as to quickly find and quell dissent. 
 
 As discussed above the US is in a situation of low information control and low legitimacy. Even if the US government had access to all Internet data from all its citizens, it would be fairly constrained in the authoritarian actions it could take. 
 
-For the US government to become significantly more powerful it needs to establish higher information control, which it can only achieve with the tech industry's help. But it's not in the interest of large tech companies to create an authoritarian system in the US. Such a system would lock tech companies into a role of subservience to a single political party, subject to the whims of its leadership. Consider the fate of Jack Ma, who was likely [forced out of Alibaba](https://www.wsj.com/articles/alibabas-jack-ma-denies-beijing-forced-him-out-1537280485) by the CCP. Zuckerberg, Bezos, and Page do not want to be in this position. They'd much prefer to exist in a world like that decsribed in [The Soverign Individual](https://www.nateliason.com/notes/sovereign-individual), where governments are relatively weak and are forced to compete with each other to attract companies and individuals.
+For the US government to become significantly more powerful it needs to establish higher information control, which it can only achieve with the tech industry's help. But it's not in the interest of large tech companies to create an authoritarian system in the US. Such a system would lock tech companies into a role of subservience to a single political party, subject to the whims of its leadership. Zuckerberg, Bezos, and Page do not want to be in the position of Jack Ma, who was likely [forced out of Alibaba](https://www.wsj.com/articles/alibabas-jack-ma-denies-beijing-forced-him-out-1537280485) by the CCP. They'd much prefer to exist in a world like that decsribed in [The Soverign Individual](https://www.nateliason.com/notes/sovereign-individual), where governments are relatively weak and are forced to compete with each other to attract companies and individuals.
 
-In the US the balance of power between tech companies, government, and citizens is more evenly distributed than in China. The US government could theoretically threaten Facebook with nationalization or other harsh consequences if it didn't do its bidding, but politicians are beholden enough to public opinion that this would cause whoever spearheaded this effort to lose power. In general in any two of these factions could successfully team up against the remaining one if they wanted to. The main factor limiting what either the government or tech firms can do in the US is public opinion, and tech platforms are in a better position to influence public opinion than the government.
+In the US the balance of power between tech companies, government, and citizens is more evenly distributed than in China. The US government could theoretically threaten Facebook with nationalization or other harsh consequences if it didn't do its bidding, but politicians are beholden enough to public opinion that this would cause whoever spearheaded this effort to lose power. In general any two of these factions could successfully team up against the remaining one if they wanted to. The main factor limiting what either the government or tech firms can do in the US is public opinion, and tech platforms are in a better position to influence public opinion than the government.
 
 <!--
 The internal divisions and checks and balances in the US government serve to make it easier for the US tech industry to avoid being brought into the fold of an authoritarian regime.
@@ -127,13 +129,58 @@ The internal divisions and checks and balances in the US government serve to mak
 Power within the US government is also more distributed than power within the CCP. There is more room for Facebook to play the Democratic and Republican sides against each other for its own advantage than for a Chinese company to try a similar move with factions within the CCP. 
 -->
 
-Tech platforms will often cooperate with the government when it's expedient, when they believe enough of the public would be against them if they didn't, or when they can be convinced that the request falls within the government's legitimate powers. Tech platform behavior can mostly be predicted by assuming their goal is to make as much money as possible over the long run. This involves avoiding becoming a political target. The censorship decisions of these companies is best understood as a delicate balancing act -- censor too much and citizens and politicians on the right become upset, censor too little and citizens and politicians on the left become upset (for encoraging the spread of alleged misinformation and/or hate). These companies aren't without [fear of the deep state](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet), but this has its limits. They also frequently [push back](https://www.apple.com/customer-letter/) against government overeach when they have the support of citizens.
+The behavior of US tech companies can roughly be predicted by assuming their goal is to make as much money as possible over the long run, which involves avoiding becoming a political target. They will often cooperate with the government when it's expedient or when they believe enough of the public would be against them if they didn't. The censorship decisions of these companies are best understood as a delicate balancing act -- censor too much and citizens and politicians on the right become upset, censor too little and citizens and politicians on the left become upset (for encoraging the spread of alleged misinformation and/or hate). [PRISM](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet) gives the government a lot of data but we're far from it being used for political control. Tech companies frequently [push back](https://www.apple.com/customer-letter/) against government overeach when they have the support of citizens.
 
-The US government may be able to transform itself into a powerful authoritarian government through some clever strategy, but they need the tech industry on board and it's unclear how they would achieve that.
+The US government may be able to transform itself into a powerful authoritarian government through some clever strategy, but they need the tech industry's cooperation and it's not clear how they could achieve that.
 
-# **Alternatives to increased centralization**
+# **Technology and power**
 
-We've covered several reasons why centralization of power may not be inevitable in the West. If it doesn't occur, what might happen instead? 
+Most technologies increase power across the full spectrum between large organizations and individuals, but they do so unevenly. AI becomes more effective the more data and computing power you have, so it increases the power of large organizations more than smaller ones. The [crossbow](https://nakamotoinstitute.org/static/docs/from-crossbows-to-cryptography.pdf) was an example of a technology that helped individuals more than large organizations -- it enabled untrained peasants to effectively wield deadly force. Encryption and cryptocurrency also help to level the playing field between large organizations and individuals.
+
+<!---
+nuclear bombs are another example, on the scale of nations. allows north korea to know it wont be attacked.
+-->
+
+There are many effects of the Internet -- some centralizing, some decentralizing. The Internet has centralized control of information networks into the hands of a small number of companies. China has shown us that if these networks can be captured by a government the effect on power is strongly centralizing. In the West we see more of a stalemate between tech platforms and governments, and caution from tech platforms about using their power. As a result the Internet has decentralized the flow of information in the West. The overall growth the Internet is making people and businesses less dependent on physical location, reducing the leverage that governments have over citizens and companies -- another decentralizing effect.
+
+Centralization due to technological progress is not inevitable (at least not in a way that we can be confident of) but depends both on the specific details of that technology, the existing structure of power when the technology is developed, and many other difficult to analyze factors.
+
+<div><br></div>
+
+<i>I welcome [offers to bet](https://www.econlib.org/archives/2012/05/the_bettors_oat.html) with readers who disagree with any claims I've made.</i>
+
+<i>Follow me [on twitter](https://twitter.com/elliot_olds) to be notified of my future writing.</i>
+
+
+
+<!---
+
+
+Whether citizens of Western governments will end up living under authoritarian rule depends on many difficult to analyze details, including details about current and future technologies. The idea that technological progress is inevita
+
+This has eroded the authority of intsitutions and elites, and it's unclear if they'll be able to recover. 
+
+In light of the factors above, I believe it's at least plausible that the result will be increased decentralization.
+
+-->
+
+<!---
+
+
+# **Birth of a norm**
+
+I'd like to live in a world where every essay about what is true ends with [an offer to bet](https://www.econlib.org/archives/2012/05/the_bettors_oat.html). In that spirit I offer the following bet to any readers: that on December 10th 2025 there will be at least 10 million end-to-end encrypted messages sent between people in the US (or the region within the former US's borders if the US no longer exists) with no significant risk of legal penalty.
+
+If you're interested in taking this bet or different bet related to a claim I've made, contact me to work out the terms and logistics. I'm willing to bet either a token amount or something more substantial. If I get multiple offers I'll pick only those with whom betting will bring the most attention to my writing.
+
+-->
+
+<!---
+
+ In light of the factors discussed above, increased decentralization seems like a plausible outcome. 
+
+
+We've seen several reasons why centralization of power may not be inevitable in the West. If it doesn't occur, what might happen instead? 
 
 One possibility is that the cypherpunks may prove to have been right in the end -- technology may finally usher in an era of increased individual freedom, at least in most countries that aren't currently authoritarian. We've seen above that end-to-end encryption is becoming widely used, and as more of the economy moves onto the Internet the case for cryptocurrency severing governments' control over money grows stronger. This possibility dovetails with the thesis of [The Sovereign Individual](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720) and the vision described by Balaji Srinivasan in [this talk](https://www.youtube.com/watch?v=cOubCHLXT6A). As the economy becomes more Internet-based, people and companies become more mobile, putting more competitive pressure on governments to curtail their own power and to respect individual rights.
 
@@ -148,6 +195,8 @@ Rather than listing further possibilities I'll note that the unprecedented level
 <div><br></div>
 
 Very few people foresaw the crisus of authority that the Internet has so far given us. It's very likely that future technological development will create a situation that we can't now foresee. 
+
+-->
 
 <!---
 
