@@ -22,13 +22,13 @@ These critical narratives have eroded the perceived legitimacy of these institut
 
 
 
-In the pre-Internet era, everyone was deplatformed by default. There were a limited number of TV channels, radio stations, and newspapers making it necessary for information distributors to exercise heavy curation. This gave information distributors cover to curate partly based on the content's narrative. They wanted to distribute profitable content, but they also wanted to trade favors with powerful people and institutions who didn't want to be criticized.
+In the pre-Internet era everyone was deplatformed by default. There were a limited number of TV channels, radio stations, and newspapers making it necessary for information distributors to exercise heavy curation. This gave information distributors cover to curate partly based on the content's narrative. They wanted to distribute profitable content but they also wanted to trade favors with powerful people and institutions who didn't want to be criticized.
 
 The small number of informaiton channels made it more profitable to try to appeal to a broad swath of the population. The high costs of pre-Internet information distribution gave advertisers more control over content. Both of these factors limited anti-estalbishment narratives.
 
 
 
-Today almost everyone can have a platform, but it's still true that only a small percentage of people have a large platform. There's still a fixed amount of attention to go around. Content on the Internet is implicitly filtered, but this filtering is done mostly based on popularity, with less narrative filtering than exists in legacy media.
+Today almost everyone can have a platform but it's still true that only a small percentage of people have an large platform. There's still a fixed amount of attention to go around. Content on the Internet is implicitly filtered but this filtering is done mostly based on popularity, with less narrative filtering than exists in legacy media.
 
 
 
@@ -58,13 +58,13 @@ Jones and Spencer would never have had their narratives broadcast on mainstream 
 
 The big tech companies in China cooperate more closely with the [Chinese Communist Party](https://en.wikipedia.org/wiki/Chinese_Communist_Party) than US tech companies do with the US government. If a similar situation of close cooperation between tech platforms and government developed in Western countries it could lead to significant centralization of power. However there may be no plausible path for this sort of sitation to develop in the West. 
 
-When the Internet was first becoming widely used the CCP was in a position of higher information control than Western governments. They made a deliberate choice to maintain high information control over the course of the Internet's rise, and they've largely been successful. This took a lot of effort and planning. 
+When the Internet was first becoming widely used the CCP was in a position of higher information control than Western governments. They made a deliberate choice to maintain high information control over the course of the Internet's rise and they've largely been successful. This took a lot of effort and planning. 
 
 Western countries made little effort to control the flood of information stemming from the Internet and as a result have suffered the crisis of institutional authority described previously.
 
 Maybe the US government could have avoided the crisis of authority and pressured tech companies into helping it solidify its power if it had more foresight before the Internet developed. But the US government is now in a situation where it lacks legitimacy and has little control of the narratives its citizens are exposed to. Without these things it's difficult to enact and enforce the far reaching policies (mandated encryption backdoors for instance) that would be needed to transition to high information control over its citizens.
 
-One factor that may make it especially difficult for the US government to take an authoritarian path is that when groups are in competition they tend to focus on and take pride in their differences. The narrative that "In the US we are free, unlike in China" is appealing to US citizens and will likely make them more reluctant to accept authoritarian governance than if China was not ascendant.
+One factor that may make it especially difficult for the US government to take an authoritarian path is that when groups are in competition they tend to focus on and take pride in their differences. The narrative that "In the US we are free, unlike in China" is appealing to US citizens and will likely make them more reluctant to accept authoritarian governance than if the US and China were not in competition.
 
 <!---
 
@@ -72,7 +72,7 @@ One factor that may make it especially difficult for the US government to take a
 
 # **Technological tools for resisting centralized power are becoming widespread**
 
-Digital privacy advocates had been trying and failing to get people to use end-to-end encryption for decades. Technical challenges prevented the existence of user-friendly options, and people didn't care enough to go through the significant friction of using these tools. 
+Digital privacy advocates had been trying and failing to get people to use end-to-end encryption for decades. Technical challenges prevented the existence of user-friendly options and people didn't care enough to go through the significant friction of using these tools. 
 
 This changed in 2010 with the release of [TextSecure](https://en.wikipedia.org/wiki/TextSecure), the precursor to [Signal](https://en.wikipedia.org/wiki/Signal_(software)). WhatsApp, the world's most popular messaging app, has integrated Signal's technology and today two billion WhatApp users have end-to-end encryption enabled by default. Zoom, the world's most used video conferencing software, just released [their own end-to-end encryption feature](https://blog.zoom.us/zoom-rolling-out-end-to-end-encryption-offering/) in October 2020. 
 
@@ -94,11 +94,11 @@ Cryptocurrency isn't yet widespread 11 years after its creation and there are ma
 
 Western governments have been trying for decades to [ban end-to-end encryption](https://portswigger.net/daily-swig/western-governments-double-down-efforts-to-curtail-end-to-end-encryption) and have mostly failed, with the (partial) exception of Australia's recent [anti-encryption law](https://fee.org/articles/australia-s-unprecedented-encryption-law-is-a-threat-to-global-privacy/). This law has been [controversial](https://www.gizmodo.com.au/2020/08/assistance-and-access-law-encrypted-messaging-explained/) and has been blamed for [reducing the competitiveness of Australia's tech industrsty](https://www.zdnet.com/article/labor-to-introduce-bill-to-fix-australian-encryption-laws-it-voted-for/).
 
-I call this law a partial exception because Australians can still use end-to-end encryption via Signal. It's not technically possible for the Signal team to comply with the law, so the Australian government's options involve blocking Internet traffic to and from Signal servers or pressuring Apple and Google to remove Signal from their Australian app stores. They've done neither of these so far, and [Signal's blog post](https://signal.org/blog/setback-in-the-outback/) about this legislation reveals how to easily bypass both of these measures.
+I call this law a partial exception because Australians can still use end-to-end encryption via Signal and WhatsApp. It's not technically possible for the Signal team to comply with the law, so the Australian government's options involve blocking Internet traffic to and from Signal servers or pressuring Apple and Google to remove Signal from their Australian app stores. They've done neither of these so far, and [Signal's blog post](https://signal.org/blog/setback-in-the-outback/) about this legislation reveals how to easily bypass both of these measures.
 
-The situation in Australia is worth watching, but we won't get a good sense for whether Western countries could actually ban end-to-end encryption unless the Australian government makes a more serious effort to criminalize its use. 
+The situation in Australia is worth watching but we won't get a good sense for whether Western countries could actually ban end-to-end encryption unless the Australian government makes a more serious effort to criminalize its use. 
 
-The US government has worked with tech companies to [secretly get access to citizens' cloud data](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet), and they have probably [secretly backdoored some hardware](https://www.tomshardware.com/news/cisco-backdoor-hardcoded-accounts-software,37480.html), but there is no law mandating that computer hardware have government backdoors. 
+The US government has worked with tech companies to [secretly get access to citizens' cloud data](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet) and they have probably [secretly backdoored some hardware](https://www.tomshardware.com/news/cisco-backdoor-hardcoded-accounts-software,37480.html) but there is no law mandating that computer hardware have government backdoors. 
 
 <!---
 The bloomberg story often cited as evidence of Chinese hardware being backdoored is widely disputed by security experts. The general consensus is that bloomberg should have retracted the story. There are suspicions that Lenevo hardware may have been backdoored but this has never been established.
@@ -115,7 +115,7 @@ Given that the Internet has already stripped Western governments of much of thei
 
 When an authoritarian government is able to bring its advanced tech industry fully under its control it creates a combined power structure that is difficult for citizens to fight back against. The government can use the tech platforms' control of information to legitimize its authoritarian actions, as well as to quickly find and quell dissent. 
 
-As discussed above the US is in a situation of low information control and low legitimacy. Even if the US government had access to all Internet data from all its citizens, it would be fairly constrained in the authoritarian actions it could take. 
+As discussed above the US is in a situation of low information control and low legitimacy. Even if the US government had access to all Internet data from all its citizens it would be fairly constrained in the authoritarian actions it could take. 
 
 For the US government to become significantly more powerful it needs to establish higher information control, which it can only achieve with the tech industry's help. But it's not in the interest of large tech companies to create an authoritarian system in the US. Such a system would lock tech companies into a role of subservience to a single political party, subject to the whims of its leadership. Zuckerberg, Bezos, and Page do not want to be in the position of Jack Ma, who was likely [forced out of Alibaba](https://www.wsj.com/articles/alibabas-jack-ma-denies-beijing-forced-him-out-1537280485) by the CCP. They'd much prefer to exist in a world like that decsribed in [The Soverign Individual](https://www.nateliason.com/notes/sovereign-individual), where governments are relatively weak and are forced to compete with each other to attract companies and individuals.
 
@@ -131,7 +131,7 @@ Power within the US government is also more distributed than power within the CC
 
 The behavior of US tech companies can roughly be predicted by assuming their goal is to make as much money as possible over the long run, which involves avoiding becoming a political target. They will often cooperate with the government when it's expedient or when they believe enough of the public would be against them if they didn't. The censorship decisions of these companies are best understood as a delicate balancing act -- censor too much and citizens and politicians on the right become upset, censor too little and citizens and politicians on the left become upset (for encoraging the spread of alleged misinformation and/or hate). [PRISM](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet) gives the government a lot of data but we're far from it being used for political control. Tech companies frequently [push back](https://www.apple.com/customer-letter/) against government overeach when they have the support of citizens.
 
-The US government may be able to transform itself into a powerful authoritarian government through some clever strategy, but they need the tech industry's cooperation and it's not clear how they could achieve that.
+The US government may be able to transform itself into a powerful authoritarian government through some clever strategy but they need the tech industry's cooperation and it's not clear how they could achieve that.
 
 # **Technology and power**
 
@@ -141,9 +141,9 @@ Most technologies increase power across the full spectrum between large organiza
 nuclear bombs are another example, on the scale of nations. allows north korea to know it wont be attacked.
 -->
 
-There are many effects of the Internet -- some centralizing, some decentralizing. The Internet has centralized control of information networks into the hands of a small number of companies. China has shown us that if these networks can be captured by a government the effect on power is strongly centralizing. In the West we see more of a stalemate between tech platforms and governments, and caution from tech platforms about using their power. As a result the Internet has decentralized the flow of information in the West. The overall growth the Internet is making people and businesses less dependent on physical location, reducing the leverage that governments have over citizens and companies -- another decentralizing effect.
+There are many effects of the Internet -- some centralizing, some decentralizing. The Internet has centralized control of information networks into the hands of a small number of companies. China has shown us that if these networks can be captured by a government the effect on power is strongly centralizing. In the West we see more of a stalemate between tech platforms and governments, and caution from tech platforms about using their power. As a result the Internet has decentralized the flow of information in the West and stripped Western governments of their authoriry. The overall growth of the Internet is making people and businesses less dependent on physical location, reducing the leverage that governments have over citizens and companies -- another decentralizing effect.
 
-Centralization due to technological progress is not inevitable (at least not in a way that we can be confident of) but depends both on the specific details of that technology, the existing structure of power when the technology is developed, and many other difficult to analyze factors.
+Centralization due to technological progress is not inevitable but depends on the specific details of current and future technology, the existing structure of power when the technology is developed, and many other difficult to analyze factors.
 
 <div><br></div>
 
