@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Can Technology Decentralize Power?
-permalink: /decentralizedinternet
+permalink: /decentralizedinternetzxczxczczczxczc
 ---
 
 What will be the long run effect of the Internet on the distribution of power? Will governments and big tech companies closely cooperate to strengthen their control over society?  Or can the [cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) dream of the Internet as a tool of individual freedom and privacy be realized?
