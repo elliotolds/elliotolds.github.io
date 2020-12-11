@@ -147,7 +147,7 @@ nuclear bombs are another example, on the scale of nations. allows north korea t
 
 There are many effects of the Internet -- some centralizing, some decentralizing. Most Internet communication is mediated by a small number of companies. China has shown us that if these companies can be captured by a government the effect on power is strongly centralizing. In the West we see more of a stalemate between tech platforms and governments, and we see caution from tech platforms about using their power. The practical effect is that the Internet has decentralized the flow of information in the West and stripped governments of much of their authority. The overall growth of the Internet is making people and businesses less dependent on physical location, reducing the leverage that governments have over citizens and companies -- another decentralizing effect.
 
-How this all plays out depends on the specific details of current and future technology, the existing structure of power when this technology is developed, and many other difficult to analyze factors. Neither greater centralization nor greater decentralization is inevitable. For those of us who would prefer to avoid an authoritarian future it would be a mistake to prematurely resign ourselves to this fate. 
+How this all plays out depends on the specific details of current and future technology, the existing structure of power when this technology is developed, and many other difficult to analyze factors. Neither greater centralization nor greater decentralization is inevitable. For those of us who prefer to avoid an authoritarian future it would be a mistake to prematurely accept this fate.
 
 <!---
 # **Inevitability**
