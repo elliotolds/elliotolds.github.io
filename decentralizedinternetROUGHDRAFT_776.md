@@ -53,7 +53,7 @@ Jones and Spencer would never have had their narratives broadcast on mainstream 
 
 # **What about China?**
 
-Tech companies in China cooperate more closely with the [Chinese Communist Party](https://en.wikipedia.org/wiki/Chinese_Communist_Party) than US tech companies do with the US government. If such close cooperation between tech platforms and government developed in Western countries it would likely lead to significant centralization of power. However there may be no plausible path for this sort of cooperation to develop in the West. 
+Tech companies in China cooperate more closely with the [Chinese Communist Party](https://en.wikipedia.org/wiki/Chinese_Communist_Party) than US tech companies do with the US government. If such close cooperation between tech platforms and governments developed in Western countries it would likely lead to significant centralization of power. However there may be no plausible path for this sort of cooperation to develop in the West. 
 
 When the Internet was new the CCP was in a position of higher information control than Western governments. The CCP made a deliberate choice to maintain high information control over the course of the Internet's rise and they've largely been successful. This took a lot of effort and planning. 
 
@@ -86,7 +86,7 @@ We are in the midst of a massive global rollout of end-to-end encryption. For th
 
 Thousands of software developers and researchers are now working on another problem: creating a private, uncensorable form of digital money that's easy to use and can support billions of users. If they succeed in separating money from the state it would make it much more difficult for authoritarian governments to control their citizens.
 
-Cryptocurrency isn't yet widespread 11 years after its creation and there are many unsolved problems, but progress is steadily being made and 11 years isn't that long. It was 25 years between the release of [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) (difficult to use software for end-to-end encryption) and when end-to-end encryption became widely used. It was at least 20 years between the invention of the Internet and when its decentralizing effects on the flow of information became significant.
+Cryptocurrency isn't yet widespread 11 years after its creation and there are many unsolved problems, but progress is steadily being made and 11 years isn't that long. It was 25 years between the release of [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) (difficult to use encryption software) and when end-to-end encryption became widely used. It was at least 20 years between the invention of the Internet and when its decentralizing effects on the flow of information became significant.
 
 
 
