@@ -19,7 +19,7 @@ I'll describe below how technology has already decentralized power to a large de
 Compare the information landscape in Western countries now to what it was in 1990. Today we have easier access to a wider variety of information and narratives, which are often more critical of large institutions and elites than the narratives people were exposed to in the past. This criticism has eroded the perceived legitimacy of institutions and elites, as described by [Martin Gurri](https://twitter.com/mgurri) in [The Revolt of the Public](https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143) ([podcast with transcript](https://80000hours.org/podcast/episodes/martin-gurri-revolt-of-the-public/), [ten minute video](https://www.youtube.com/watch?v=yhSaPi_zAyY&ab_channel=MartinGurri)).
 
 
-In the pre-Internet era everyone was deplatformed by default. There were a limited number of TV channels, radio stations, and newspapers making it necessary for information distributors to exercise heavy curation. This gave information distributors cover to curate content partly based on the its narrative. They wanted to distribute profitable content but they also wanted to trade favors with powerful people and institutions who didn't like criticism.
+In the pre-Internet era everyone was deplatformed by default. There were a limited number of TV channels, radio stations, and newspapers making it necessary for information distributors to exercise heavy curation. This gave information distributors cover to curate content partly based on its narrative. They wanted to distribute profitable content but they also wanted to trade favors with powerful people and institutions who didn't like criticism.
 
 The small number of information channels meant there was no room for niche content -- it was most profitable to try to appeal to a broad swath of the population. The high costs of pre-Internet information distribution gave advertisers more leverage over content. Both of these factors limited anti-establishment narratives.
 
@@ -49,7 +49,7 @@ Jones and Spencer would never have had their narratives broadcast on mainstream 
 
 # **What about China?**
 
-Network effects have lead to most Internet communication being mediated by a small number of companies. China has shown us that if these companies are captured by a government the effect on power can be strongly centralizing. However there may be no plausible path for this sort of capture to develop in the West. 
+Network effects have led to most Internet communication being mediated by a small number of companies. China has shown us that if these companies are captured by a government the effect on power can be strongly centralizing. However there may be no plausible path for this sort of capture to develop in the West. 
 
 When the Internet was new the [Chinese Communist Party](https://en.wikipedia.org/wiki/Chinese_Communist_Party) was in a position of higher information control than Western governments. The CCP made a deliberate choice to maintain high information control over the course of the Internet's rise and they've largely been successful. This took a lot of effort and planning. 
 
