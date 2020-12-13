@@ -59,7 +59,7 @@ When the Internet was new the [Chinese Communist Party](https://en.wikipedia.org
 
 Western countries made little effort to control the flood of information stemming from the Internet and as a result have suffered the crisis of institutional authority described above.
 
-Maybe Western governments could have avoided this fate if they had acted sooner, but they're now in a situation of reduced legitimacy and little control of the narratives their citizens are exposed to. Without these things it's difficult to enact and enforce the far reaching policies (mandated encryption backdoors for instance) needed to transition to high information control over their citizens.
+Maybe Western governments could have avoided this fate if they had acted sooner, but they're now in a situation of reduced legitimacy and little control over the narratives their citizens are exposed to. Without these things it's difficult to enact and enforce the far reaching policies (mandated encryption backdoors for instance) needed to transition to high information control over their citizens.
 
 Rather than serve as an example of success to emulate, China's rise may harden Western citizens' resolve against authoritarian governance. When groups are in competition they often focus on and take pride in their differences. The narrative "In the West we are free, unlike in China" is appealing to Westerners and may become more so as conflict with China increases -- recall the heightened pro-freedom sentiment in the US during the Cold War.
 
