@@ -35,11 +35,13 @@ Governments, the media, corporations, and educational institutions can no longer
 
 One might object that most anti-establishment narratives spread via YouTube, Facebook, and Twitter, which are all becoming increasingly powerful platforms. Isn't this just a manifestation of a tendency toward centralization? 
 
-Control of information is decentralizing despite this because in a world of with near-infinite information channels deplatforming someone is more conspicuous than in a world of few information channels. Traditional media platforms must always exercise judgment about who they broadcast because of limited space, and they can use these judgments to deplatform people for reasons that are not obvious.
+Control of information is decentralizing despite this because in a world of near-infinite information channels deplatforming someone is more conspicuous than in a world of few information channels. Traditional media platforms must always exercise judgment about who they broadcast because of limited space, and they can use these judgments to deplatform people for reasons that are not obvious.
 
 On Internet platforms deplatforming is the exception and the act of doing it attracts attention and demands an explanation.
 
 Tech platforms do impose some narrative filter on information. There have been coordinated deplatformings of [Alex Jones](https://en.wikipedia.org/wiki/Alex_Jones) and [Richard Spencer](https://en.wikipedia.org/wiki/Richard_B._Spencer). Twitter recently prevented sharing of [a story](https://nypost.com/2020/10/14/email-reveals-how-hunter-biden-introduced-ukrainian-biz-man-to-dad/) by the New York Post (a decision Twitter later [said they were wrong to do](https://twitter.com/jack/status/1317081843443912706)), and Twitter sometimes puts warnings on tweets (including Donald Trump's). Tech platforms have started instituting "soft" filters on some content by reducing the likelihood that it appears in users' feeds. This week YouTube [said it would start deleting videos](https://www.theverge.com/2020/12/9/22165355/youtube-biden-election-victory-misinformation-rules-remove-content-oan) which claim that the 2020 US election results are fraudulent.
+
+The censorship decisions of these companies are best understood as delicate balancing acts to avoid political heat -- censor too much and the right becomes upset, censor too little and the left becomes upset (that tech companies are helping to spread alleged misinformation or hate).
 
 It's important to compare this narrative filtering with what existed before the Internet. The relevant question is whether the Internet is leading us toward more centralization than what existed before, not whether it's leading us to more centralization than we think is ideal. 
 
@@ -53,18 +55,12 @@ Network effects have led to most Internet communication being mediated by a smal
 
 When the Internet was new the [Chinese Communist Party](https://en.wikipedia.org/wiki/Chinese_Communist_Party) was in a position of higher information control than Western governments. The CCP made a deliberate choice to maintain high information control over the course of the Internet's rise and they've largely been successful. This took a lot of effort and planning. 
 
-Western countries made little effort to control the flood of information stemming from the Internet and as a result have suffered the crisis of institutional authority described previously.
+Western countries made little effort to control the flood of information stemming from the Internet and as a result have suffered the crisis of institutional authority described above.
 
-Maybe the US government could have avoided this fate if it had acted sooner, but it is now in a situation of reduced legitimacy and little control of the narratives its citizens are exposed to. Without these things it's difficult to enact and enforce the far reaching policies (mandated encryption backdoors for instance) that would be needed to transition to high information control over its citizens.
+Maybe Western governments could have avoided this fate if they had acted sooner, but they're now in a situation of reduced legitimacy and little control of the narratives their citizens are exposed to. Without these things it's difficult to enact and enforce the far reaching policies (mandated encryption backdoors for instance) needed to transition to high information control over their citizens.
 
+Rather than serve as an example of success to emulate, China's rise may harden Western citizens' resolve against authoritarian governance. When groups are in competition they often focus on and take pride in their differences. The narrative "In the West we are free, unlike in China" is appealing to Westerners and may become more so as conflict with China increases -- recall the heightened pro-freedom sentiment in the US during the Cold War.
 
-
-<!---
-When groups are in competition they tend to focus on and take pride in their differences. The narrative "In the US we are free, unlike in China" is appealing to US citizens and will likely make them more reluctant to accept authoritarian governance than if the US and China were not in competition.
-
-
-
--->
 
 # **Tools for resisting centralized power are becoming widespread**
 
@@ -76,10 +72,6 @@ This changed in 2010 with the release of [TextSecure](https://en.wikipedia.org/w
 
 We are in the midst of a massive global rollout of end-to-end encryption. For the first time in history normal people are regularly communicating remotely in a way that governments and companies lack the power to listen in on.
 
-<!---
-(We'll return to the issue of whether governments can read your Signal messages later).
--->
-
 Thousands of software developers and researchers are now working on another problem: creating a private, uncensorable form of digital money that's easy to use and can support billions of users. If they succeed in separating money from the state it will make it much more difficult for authoritarian governments to control their citizens.
 
 Cryptocurrency isn't yet widespread 11 years after its creation and there are many unsolved problems, but progress is steadily being made and 11 years isn't that long. It was 25 years between the release of [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) (difficult to use encryption software) and when end-to-end encryption became widely used. It was at least 20 years between the invention of the Internet and when its decentralizing effects on the flow of information became significant.
@@ -88,7 +80,7 @@ Cryptocurrency isn't yet widespread 11 years after its creation and there are ma
 
 # **Can't governments backdoor our software and hardware?**
 
-Western governments have tried for decades to [ban end-to-end encryption](https://portswigger.net/daily-swig/western-governments-double-down-efforts-to-curtail-end-to-end-encryption) and have mostly failed, with the partial exception of Australia's recent [anti-encryption law](https://fee.org/articles/australia-s-unprecedented-encryption-law-is-a-threat-to-global-privacy/). This law has been [controversial](https://www.gizmodo.com.au/2020/08/assistance-and-access-law-encrypted-messaging-explained/) and has been blamed for [reducing the competitiveness of Australia's tech industry](https://www.zdnet.com/article/labor-to-introduce-bill-to-fix-australian-encryption-laws-it-voted-for/).
+Western governments have tried since the 1990s to [ban end-to-end encryption](https://portswigger.net/daily-swig/western-governments-double-down-efforts-to-curtail-end-to-end-encryption) and have mostly failed, with the partial exception of Australia's recent [anti-encryption law](https://fee.org/articles/australia-s-unprecedented-encryption-law-is-a-threat-to-global-privacy/). This law has been [controversial](https://www.gizmodo.com.au/2020/08/assistance-and-access-law-encrypted-messaging-explained/) and has been blamed for [reducing the competitiveness of Australia's tech industry](https://www.zdnet.com/article/labor-to-introduce-bill-to-fix-australian-encryption-laws-it-voted-for/).
 
 I call this law a partial exception because Australians can still use end-to-end encryption via Signal and WhatsApp. It's not technically possible for the Signal team to comply with the law, so the Australian government's options involve blocking Internet traffic to and from Signal servers or pressuring Apple and Google to remove Signal from their Australian app stores. They've done neither of these so far, and [Signal's blog post](https://signal.org/blog/setback-in-the-outback/) about this legislation reveals how to easily bypass both of these measures.
 
@@ -138,21 +130,9 @@ In the US the balance of power between tech companies, government, and citizens 
 
 They'd prefer a world more like the one described in [The Soverign Individual](https://www.nateliason.com/notes/sovereign-individual), where governments are relatively weak and are forced to compete with each other to attract companies and citizens.
 
-The US government could not force Zuckerberg to step down without creating public backlash and causeing the politicians responsible to lose power. 
 -->
 <!---
 
-
-Tech companies are roughly trying to make as much money as possible over the long run. An important part of this goal is not unnecessarily becoming a political target. The censorship decisions of these companies are best understood as a delicate balancing act -- censor too much and the right becomes upset, censor too little and the left becomes upset (for helping to spread alleged misinformation or hate). [PRISM](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet) gives the government a lot of data but we're far from it being used for political control. Tech companies frequently [push back](https://www.apple.com/customer-letter/) against government overreach when they have the support of citizens.
-
--->
-<!---
-
-There may be a clever strategy that allows the US government to become authoritarian despite the tech industry and the public being aligned against that outcome and despite its low informaiton control and low legitimacy, but it's not clear what such a strategy would look like.
-
-
-
-They will often cooperate with the government when it's expedient or when they believe enough of the public would be against them if they didn't. 
 -->
 
 # **Technology and power**
@@ -164,18 +144,6 @@ Artificial intelligence becomes more effective the more data and computing power
 Whether power centralizes or decentralizes in the future depends on the specific details of current and future technology, the existing structure of power when this technology is developed, and many other difficult to analyze factors. We're living through [a period of rapid technological progress](https://www.openphilanthropy.org/blog/modeling-human-trajectory) so it's hard to know these details, but we've seen many factors pushing in the direction of decentralization. For those of us who prefer to avoid an authoritarian future it would be a mistake to prematurely accept that fate.
 
 <!---
-
-But as we've seen there are many factors pushing toward decentralization. 
-
-We're living through a period of rapid technological progress so should be uncertain about whether greater centralization nor greater decentralization is inevitable.
-
-There are many effects of the Internet -- some centralizing, some decentralizing. Network effects have lead to most Internet communication being mediated by a small number of companies. China has shown us that if these companies are captured by a government the effect on power can be strongly centralizing. In the West we see more of a stalemate between tech platforms and governments, and we see caution from tech platforms about using their power. The practical effect is that the Internet has decentralized the flow of information in the West and stripped governments of much of their authority. The overall growth of the Internet is putting more competitive pressure on governments -- another decentralizing effect.
-
-How this all plays out depends on the specific details of current and future technology, the existing structure of power when this technology is developed, and many other difficult to analyze factors. 
-
--->
-
-<!---
 # **Inevitability**
 
 In Magic the Gathering there's a concept called "[inevitability](https://web.archive.org/web/20120701194521/http://magic.tcgplayer.com/db/article.asp?ID=2754)" which means: if the game continues going how it's going now, who will win? The player who "has inevitability" will grind out a victory if they can prevent any important new developments. The player "without inevitability" needs to do something to change the situation or they'll lose.
@@ -183,9 +151,6 @@ In Magic the Gathering there's a concept called "[inevitability](https://web.arc
 We can view Western tech companies as having inevitibility in their quest to become independent, powerful entities unconstrained by governments. Both governments and tech companies are taking reputational hits from our chaotic information environment, but tech companies are able to weather the storm a bit better. 
 
 Despite my borrowing of this term, neither centralization or decentralization of power is actually inevitable -- at least not as far as we can know. How this all plays out depends on the specific details of current and future technology, the existing structure of power when the technology is developed, and many other difficult to analyze factors.
-
-Centralization due to technological progress is not inevitable but 
-
 -->
 
 <div><br></div>
@@ -193,40 +158,6 @@ Centralization due to technological progress is not inevitable but
 <i>I welcome [offers to bet](https://www.econlib.org/archives/2012/05/the_bettors_oat.html) with readers who disagree with any claims I've made.</i>
 
 <i>Follow me [on twitter](https://twitter.com/elliot_olds) to be notified of my future writing.</i>
-
-
-
-<!---
-
-
-Whether citizens of Western governments will end up living under authoritarian rule depends on many difficult to analyze details, including details about current and future technologies. The idea that technological progress is inevita
-
-This has eroded the authority of intsitutions and elites, and it's unclear if they'll be able to recover. 
-
-In light of the factors above, I believe it's at least plausible that the result will be increased decentralization.
-
--->
-
-<!---
-
-
-We've seen several reasons why centralization of power may not be inevitable in the West. If it doesn't occur, what might happen instead? 
-
-One possibility is that the cypherpunks may prove to have been right in the end -- technology may finally usher in an era of increased individual freedom, at least in most countries that aren't currently authoritarian. We've seen above that end-to-end encryption is becoming widely used, and as more of the economy moves onto the Internet the case for cryptocurrency severing governments' control over money grows stronger. This possibility dovetails with the thesis of [The Sovereign Individual](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720) and the vision described by Balaji Srinivasan in [this talk](https://www.youtube.com/watch?v=cOubCHLXT6A). As the economy becomes more Internet-based, people and companies become more mobile, putting more competitive pressure on governments to curtail their own power and to respect individual rights.
-
-Another possibility is that we develop new tools and institutions tailored specifically to this more chaotic information environment. The aim would be to help people better make sense of the large amount of questionable narratives they're exposed to and synthesieze them into reasonable beliefs about the world. The growing popularity of [prediction markets](https://polymarket.com/) is a promising trend in this direction. We may be able to alter the incentives present on social media networks with [targeted regulation](https://shevski.com/writing/breaking-big-tech-open). Through these types of developments it's possible that Western governments could become significantly more effectve without necessarily becoming more powerful.
-
-Rather than listing further possibilities I'll note that the unprecedented level of technological change we're undergoing makes any long term political forecasting extremely uncertain. The following image represents [simulations of economic growth trajectories](https://www.openphilanthropy.org/blog/modeling-human-trajectory) by [David Roodman](https://davidroodman.com/about/).
-
-<div><br></div>
-
-![me](roodman.png)
-
-<div><br></div>
-
-Very few people foresaw the crisus of authority that the Internet has so far given us. It's very likely that future technological development will create a situation that we can't now foresee. 
-
--->
 
 <!---
 
