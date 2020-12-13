@@ -132,7 +132,7 @@ Even though the US government [knows a lot about its citizens](https://www.theve
 
 However it's not in the interest of tech companies to help the US government become authoritarian. Such a system would lock tech companies into a subservient role, subject to the whims of the ruling party. Zuckerberg, Bezos, and Page do not want to be in the position of Jack Ma, who was likely [forced out of Alibaba](https://www.wsj.com/articles/alibabas-jack-ma-denies-beijing-forced-him-out-1537280485) by the CCP. 
 
-In the US the balance of power between tech companies, government, and citizens is more evenly distributed than in China leading to more of a (temporary) stalemate. In the struggle between tech platforms and the US government the support of the public is critical, leading to caution from both groups about abusing their power.
+In the US the balance of power between tech companies, government, and citizens is more evenly distributed than in China leading to more of a (temporary) stalemate. In the struggle between tech platforms and the US government the support of the public is critical, making both groups cautious about abusing their power.
 
 <!---
 
