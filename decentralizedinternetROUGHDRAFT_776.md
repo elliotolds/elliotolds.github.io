@@ -18,7 +18,7 @@ I'll describe below how technology has already decentralized power to a large de
 
 # **The Internet has decentralized control of information**
 
-Compare the information landscape in Western countries now to what it was in 1990. Today we have easier access to a wider variety of information and narratives, which are often more critical of large institutions and elites than the narratives people were exposed to in the past. This criticism has eroded the perceived legitimacy of institutions and elites, as described by [Martin Gurri](https://twitter.com/mgurri) in [The Revolt of the Public](https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143) ([ten minute video version](https://www.youtube.com/watch?v=yhSaPi_zAyY&ab_channel=MartinGurri)).
+Compare the information landscape in Western countries now to what it was in 1990. Today we have easier access to a wider variety of information and narratives, which are often more critical of large institutions and elites than the narratives people were exposed to in the past. This criticism has eroded the legitimacy of institutions and elites, as described by [Martin Gurri](https://twitter.com/mgurri) in [The Revolt of the Public](https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143) ([ten minute video version](https://www.youtube.com/watch?v=yhSaPi_zAyY&ab_channel=MartinGurri)).
 
 <!---
 Our increased exposure to these narratives is driven by our increased freedom to broadcast narratives with less interference from gatekeepers. 
@@ -255,11 +255,17 @@ Balaji dives deeper into the power of exit in [this talk](https://www.youtube.co
 
 Most technologies increase power across the full spectrum between large organizations and individuals, but they do so unevenly in ways that depend on the details of each technology.
 
-Artificial intelligence becomes more effective the more data and computing power you have, so we should expect it to increase the power of large organizations more than smaller ones. The [crossbow](https://nakamotoinstitute.org/static/docs/from-crossbows-to-cryptography.pdf) is an example of a technology which helped individuals more than large organizations -- it enabled untrained peasants to effectively wield deadly force. Encryption and cryptocurrency also help to level the playing field between large organizations and individuals. 
+Artificial intelligence becomes more effective the more data and computing power you have, so we should expect it to increase the power of large organizations more than smaller ones. The [crossbow](https://nakamotoinstitute.org/static/docs/from-crossbows-to-cryptography.pdf) is an example of a technology which helped individuals more than large organizations -- it enabled untrained peasants to effectively wield deadly force. Encryption and cryptocurrency also help to level the playing field between large organizations and individuals. We've seen how the Internet produces effects that shift power unevenly in both directions.
 
-Whether power centralizes or decentralizes in the future depends on the specific details of current and future technology, the existing structure of power when this technology is developed, and many other difficult to analyze factors. We're living through [a period of rapid technological progress](https://www.openphilanthropy.org/blog/modeling-human-trajectory) so it's especially hard to know these details or how to weigh the various factors against one another.
+Because the distribution of power depends so much on the technological landscape, predicting the distribution of power depends to a large degree on predicting the future of technology. Such predictions have always been difficult but are especially so today given that we're in [a period of rapid technological progress](https://www.openphilanthropy.org/blog/modeling-human-trajectory).
 
-Given the many significant factors we've seen pushing towards decentralization, centralization of power seems far from inevitable. For those who prefer to avoid an authoritarian future it would be a mistake to prematurely accept that fate.
+# **Centralization is not inevitable**
+
+Whether power centralizes or decentralizes in the future depends on the specific details of current and future technology, the existing structure of power when this technology is developed, and many other difficult to analyze forces.
+
+Weighing these forces against one another and predicting the future shape of power is an enormously complex task. Burja's essay focused on several forces pushing us in the direction of centralization of power, but as we've seen there are many other strong forces pushing in the opposite direction. 
+
+For those who prefer to avoid an authoritarian future it would be a mistake to prematurely accept that fate.
 
 <!---
 
@@ -307,7 +313,7 @@ Despite my borrowing of this term, neither centralization or decentralization of
 <div><br></div>
 
 
-<i>Follow me [on twitter](https://twitter.com/elliot_olds) to be notified of my future writing. [Challenge me to a bet](https://www.econlib.org/archives/2012/05/the_bettors_oat.html) if you disagree with any claims I've made.</i>
+<i>Follow me [on twitter](https://twitter.com/elliot_olds) to be notified of my future writing. [Challenge me to a bet](https://www.econlib.org/archives/2012/05/the_bettors_oat.html) if you disagree with anything I've written.</i>
 
 <!---
 
