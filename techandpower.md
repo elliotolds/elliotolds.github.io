@@ -4,8 +4,6 @@ title: Will Technology Decentralize Power?
 permalink: /technologyandpower
 ---
 
-<i>This is a rough draft. Please do not share without permission.</i>
-
 What will be the long run effect of technological progress on the distribution of power? Will governments and big tech companies closely cooperate to strengthen their control over society?  Or can the [cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) dream of technology as a tool of individual freedom and privacy be realized?
 
 These questions are discussed in [The Centralized Internet Is Inevitable](https://palladiummag.com/2020/10/19/the-centralized-internet-is-inevitable/) by [Samo Burja](https://twitter.com/SamoBurja) and in [this podcast](https://palladiummag.com/2020/10/30/palladium-podcast-46-samo-burja-on-why-regulating-online-speech-is-unavoidable/) featuring Burja and [Palladium](https://palladiummag.com/) editor and cofounder [Wolf Tivy](https://twitter.com/wolftivy). Their position is that the Internet is an inherently centralizing technology. 
