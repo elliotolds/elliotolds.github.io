@@ -4,6 +4,8 @@ title: Would Bitcoin being overtaken destroy digital scarcity?
 permalink: /digitalscarcity
 ---
 
+<span style="color:grey">January 2019</span>
+
 A common argument that Bitcoin will remain the dominant crypto is given [here](https://twitter.com/adam3us/status/1084237027858698240) by Adam Back. 
 
 > if a constant stream of altcoins over took each other, then there is no digital scarcity, so no store of value, end of experiment [...] I view it as more definitional, B overtook A, then C can overtake B, and D in turn will be in everyones minds who was burned by hoping for a store of value. That becomes a timing game, and far weaker value proposition

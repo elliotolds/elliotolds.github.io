@@ -4,6 +4,8 @@ title: Will Technology Decentralize Power?
 permalink: /technologyandpower
 ---
 
+<span style="color:grey">January 2021</span>
+
 What will be the long run effect of technological progress on the distribution of power? Will governments and big tech companies closely cooperate to strengthen their control over society?  Or can the [cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) dream of technology as a tool of individual freedom and privacy be realized?
 
 These questions are discussed in [The Centralized Internet Is Inevitable](https://palladiummag.com/2020/10/19/the-centralized-internet-is-inevitable/) by [Samo Burja](https://twitter.com/SamoBurja) and in [this podcast](https://palladiummag.com/2020/10/30/palladium-podcast-46-samo-burja-on-why-regulating-online-speech-is-unavoidable/) featuring Burja and [Palladium](https://palladiummag.com/) editor and cofounder [Wolf Tivy](https://twitter.com/wolftivy). Their position is that the Internet is an inherently centralizing technology. 
@@ -166,7 +168,8 @@ For those who prefer to avoid an authoritarian future it would be a mistake to p
 
 <div><br></div>
 
-
 <i>Follow me [on twitter](https://twitter.com/elliot_olds) to be notified of my future writing. [Challenge me to a bet](https://www.econlib.org/archives/2012/05/the_bettors_oat.html) if you disagree with anything I've written.</i>
+
+<i>You can comment on the [tweetstorm for this essay](https://twitter.com/elliot_olds/status/1346520484960235520) or on the [version posted to Medium]</i>
 
 <i>Thanks to [Pasha Kamyshev](https://twitter.com/PashaKamyshev), [Natalia Dashan](nataliadashan), [Eric Jorgenson](https://twitter.com/jorgyak), [Jack Purdy](https://twitter.com/jpurd17), [Michiel Lescrauwaet](https://twitter.com/MLescrauwaet), [Christopher Wray](https://twitter.com/harshcopywriter), [Jennifer Kesteloot](https://twitter.com/jenalden), [Hasu](https://twitter.com/hasufl), and [Mike Co](https://burningw0rds.medium.com/) for providing feedback on earlier drafts of this essay.</i>
