@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![me](bestphoto_clipped.jpg)
+![me](ecrop4.jpg)
 
 I'm a software developer and independent researcher living in Lisbon.
 
