@@ -4,6 +4,10 @@ title: Projects
 permalink: /projects
 ---
 
+## Alignment of artificial superintelligence
+
+I'm currently testing out my ability to do high quality technical AI alignment research. 
+
 ## Impact List
 
 **[Impact List](https://forum.effectivealtruism.org/posts/LCJa4AAi7YBcyro2H/proposal-impact-list-like-the-forbes-list-except-for-impact)** is a project aimed at the creation, popularization, and maintenance of a list which ranks the top N living people by their positive impact via donations.  The goal is to make the list popular enough to increase the status awarded to those who rank highly, bring more awareness to the importance of donation effectiveness, and ultimately cause people to donate more effectively and/or donate more money.
