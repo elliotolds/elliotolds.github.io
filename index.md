@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![me](ecrop4.jpg)
+![me](mefb300.jpg)
 
 My main interests include using technology to increase individual freedom, AI safety / existential risk, math, economics, philosophy, life extension, and the theory of disagreement.
 
