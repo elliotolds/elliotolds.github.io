@@ -4,20 +4,15 @@ title: Projects
 permalink: /projects
 ---
 
-## Alignment of artificial superintelligence
-
-I'm currently testing out my ability to do high quality technical AI alignment research. 
-
 ## Impact List
 
-**[Impact List](https://forum.effectivealtruism.org/posts/LCJa4AAi7YBcyro2H/proposal-impact-list-like-the-forbes-list-except-for-impact)** is a project aimed at the creation, popularization, and maintenance of a list which ranks the top N living people by their positive impact via donations.  The goal is to make the list popular enough to increase the status awarded to those who rank highly, bring more awareness to the importance of donation effectiveness, and ultimately cause people to donate more effectively and/or donate more money.
+**[Impact List](https://impactlist.xyz)** is a project aimed at the creation, popularization, and maintenance of a list which ranks the top N living people by their positive impact via donations. The goal is to make the list popular enough to increase the status awarded to those who rank highly, bring more awareness to the importance of donation effectiveness, and ultimately cause people to donate more effectively and/or donate more money. Read about the theory behind the project [here](https://forum.effectivealtruism.org/posts/LCJa4AAi7YBcyro2H/proposal-impact-list-like-the-forbes-list-except-for-impact).
 
 ## Atstake
 
-**[Atstake](https://atstake.net/)** is a plaform for the fair enforcement of two-person contracts, using Ethereum. It's a first step toward a general system of private law, where people post bonds which are forfeit if they don't live up to their agreements. Atstake is extremely general and can be used for almost any type of agreement. 
+**[Atstake](https://atstake.net/)** is a plaform for the fair enforcement of two-person contracts, using Ethereum. It's a first step toward a general system of private law, where people post bonds which are forfeit if they don't live up to their agreements. Atstake is extremely general and can be used for almost any type of agreement.
 
 This five minute [visual tour](https://medium.com/@atstake/a-quick-visual-tour-of-atstake-8debcad9035f) will give you a sense of how it works.
-
 
 ## Improving institutional decision making
 
