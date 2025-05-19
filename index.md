@@ -9,9 +9,8 @@ The current focus of my work is aimed at reducing existential risks from artific
 You can find me at:
 
 - [Twitter](https://twitter.com/elliot_olds)
-- [Medium](https://medium.com/@elliotolds)
 - [Github](https://github.com/elliotolds)
 - [Instagram](https://www.instagram.com/symme7ry/)
-- elliotolds at Gmail
+- elliotolds at \[Google's email service\]
 
 See my [LinkedIn](https://www.linkedin.com/in/elliotolds/) for more about my background, but don't contact me there.
