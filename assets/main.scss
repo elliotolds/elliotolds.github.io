@@ -37,7 +37,11 @@
 
 * { box-sizing: border-box; }
 
-html { -webkit-text-size-adjust: 100%; }
+html {
+  -webkit-text-size-adjust: 100%;
+  /* Reserve scrollbar space so short pages don't re-center vs tall ones */
+  scrollbar-gutter: stable;
+}
 
 body, h1, h2, h3, h4, p, ul, ol, blockquote, figure { margin: 0; }
 
