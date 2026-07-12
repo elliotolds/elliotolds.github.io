@@ -16,6 +16,9 @@
   --ink-2: #6E6558;
   --accent: #9A3B26;
   --accent-deep: #7C2E1D;
+  --link: #1D4F8C;
+  --link-deep: #143A6B;
+  --link-soft: #A9BFD8;
   --rule: #E6DECE;
   --rule-strong: #D3C8B0;
   --selection: #EFDCC3;
@@ -238,16 +241,16 @@ a:focus-visible {
 .prose h1 strong, .prose h2 strong, .prose h3 strong { font-weight: inherit; }
 
 .prose a {
-  color: inherit;
+  color: var(--link);
   text-decoration: underline;
-  text-decoration-color: var(--rule-strong);
+  text-decoration-color: var(--link-soft);
   text-decoration-thickness: 1px;
   text-underline-offset: 0.18em;
 }
 
 .prose a:hover {
-  color: var(--accent);
-  text-decoration-color: var(--accent);
+  color: var(--link-deep);
+  text-decoration-color: var(--link-deep);
 }
 
 .prose ul, .prose ol {
@@ -349,13 +352,14 @@ ul.contact-list {
 }
 
 a.contact-label {
-  border-bottom: 1px solid var(--rule-strong);
+  color: var(--link);
+  border-bottom: 1px solid var(--link-soft);
   padding-bottom: 0.15em;
 }
 
 a.contact-label:hover {
-  color: var(--accent);
-  border-bottom-color: var(--accent);
+  color: var(--link-deep);
+  border-bottom-color: var(--link-deep);
 }
 
 .contact-note {
@@ -400,13 +404,13 @@ h2.essay-item-title {
 
 h2.essay-item-title a {
   text-decoration: none;
-  color: inherit;
+  color: var(--link);
 }
 
 h2.essay-item-title a:hover {
-  color: var(--accent);
+  color: var(--link-deep);
   text-decoration: underline;
-  text-decoration-color: var(--accent);
+  text-decoration-color: var(--link-deep);
   text-decoration-thickness: 1px;
   text-underline-offset: 0.18em;
 }
@@ -437,15 +441,16 @@ p.essay-item-blurb {
 .error-page p { color: var(--ink-2); }
 
 .error-page a {
+  color: var(--link);
   text-decoration: underline;
-  text-decoration-color: var(--rule-strong);
+  text-decoration-color: var(--link-soft);
   text-decoration-thickness: 1px;
   text-underline-offset: 0.18em;
 }
 
 .error-page a:hover {
-  color: var(--accent);
-  text-decoration-color: var(--accent);
+  color: var(--link-deep);
+  text-decoration-color: var(--link-deep);
 }
 
 /* ---- Small screens --------------------------------------------------------------------- */
