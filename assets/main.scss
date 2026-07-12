@@ -134,6 +134,11 @@ a:focus-visible {
   text-decoration: none;
 }
 
+/* On the home page the name is the page title, so the wordmark is
+   invisible — but it stays in the layout so the header height never
+   changes between pages. visibility also removes it from tab order. */
+.wordmark-hidden { visibility: hidden; }
+
 .site-nav {
   margin-left: auto;
   display: flex;
