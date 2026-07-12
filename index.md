@@ -8,11 +8,26 @@ Currently I'm splitting my time between investing (mostly in AI) and working on 
 
 <div class="home-links">
   <p class="kicker">You can find me at</p>
-  <p class="home-links-row">
-    <a href="https://twitter.com/elliot_olds">Twitter</a>
-    <a href="https://github.com/elliotolds">Github</a>
-    <a href="https://www.instagram.com/symme7ry/">Instagram</a>
-  </p>
-  <p class="home-links-note">elliotolds at [Google's email service]<br>
-  See my <a href="https://www.linkedin.com/in/elliotolds/">LinkedIn</a> for more about my background, but don't contact me there.</p>
+  <ul class="contact-list">
+    <li>
+      <a class="contact-label" href="https://twitter.com/elliot_olds">Twitter</a>
+      <span class="contact-note">@elliot_olds</span>
+    </li>
+    <li>
+      <a class="contact-label" href="https://github.com/elliotolds">Github</a>
+      <span class="contact-note">elliotolds</span>
+    </li>
+    <li>
+      <a class="contact-label" href="https://www.instagram.com/symme7ry/">Instagram</a>
+      <span class="contact-note">@symme7ry</span>
+    </li>
+    <li>
+      <span class="contact-label">Email</span>
+      <span class="contact-note">elliotolds at [Google's email service]</span>
+    </li>
+    <li>
+      <a class="contact-label" href="https://www.linkedin.com/in/elliotolds/">LinkedIn</a>
+      <span class="contact-note">more about my background, but don't contact me there</span>
+    </li>
+  </ul>
 </div>
