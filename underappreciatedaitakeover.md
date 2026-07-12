@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: essay
 title: Underappreciated reasons why a single AI might take over the world
 permalink: /underappreciatedaitakeover
 ---

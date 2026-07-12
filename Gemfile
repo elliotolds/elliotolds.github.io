@@ -40,5 +40,5 @@ gem "listen", "~> 3.7"
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "rexml", "~> 3.4"
-gem "json", "~> 2.6.3"
-gem "ffi", "~> 1.15.5"
+gem "json", ">= 2.6.3"
+gem "ffi", ">= 1.15.5"

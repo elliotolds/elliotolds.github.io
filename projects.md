@@ -10,7 +10,7 @@ permalink: /projects
 
 ### Atstake
 
-**[Atstake](https://atstake.net/)** is a plaform for the fair enforcement of two-person contracts, using Ethereum. It's a first step toward a general system of private law, where people post bonds which are forfeit if they don't live up to their agreements. Atstake is extremely general and can be used for almost any type of agreement.
+**[Atstake](https://atstake.net/)** is a platform for the fair enforcement of two-person contracts, using Ethereum. It's a first step toward a general system of private law, where people post bonds which are forfeit if they don't live up to their agreements. Atstake is extremely general and can be used for almost any type of agreement.
 
 This five minute [visual tour](https://medium.com/@atstake/a-quick-visual-tour-of-atstake-8debcad9035f) will give you a sense of how it works.
 

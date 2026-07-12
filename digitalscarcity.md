@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: essay
 title: Would Bitcoin being overtaken destroy digital scarcity?
 permalink: /digitalscarcity
+date_label: January 2019
 ---
-
-<span style="color:grey">January 2019</span>
 
 A common argument that Bitcoin will remain the dominant crypto is given [here](https://twitter.com/adam3us/status/1084237027858698240) by Adam Back. 
 

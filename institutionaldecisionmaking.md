@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: essay
 title: Improving Institutional Decision Making
 permalink: /institutionaldecisionmaking
 ---

@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: essay
 title: Will Technology Decentralize Power?
 permalink: /technologyandpower
+date_label: January 2021
 ---
-
-<span style="color:grey">January 2021</span>
 
 What will be the long run effect of technological progress on the distribution of power? Will governments and big tech companies closely cooperate to strengthen their control over society?  Or can the [cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk) dream of technology as a tool of individual freedom and privacy be realized?
 
@@ -12,11 +11,10 @@ These questions are discussed in [The Centralized Internet Is Inevitable](https:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The future is total surveillance for total compliance of every action, word, and thought. This is the world we are bringing into being with technology.<br><br>The unavoidable telos of technological means is totalitarian power.</p>&mdash; Wolf Tivy (@wolftivy) <a href="https://twitter.com/wolftivy/status/1197295213565239296?ref_src=twsrc%5Etfw">November 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<div><br></div>
 
 I'll describe below how technology has already decentralized power to a large degree and why we might expect a continuation of this trend.
 
-# **The Internet has decentralized control of information**
+## The Internet has decentralized control of information
 
 Compare the information landscape in Western countries now to what it was in 1990. Today we have easier access to a wider variety of information and narratives, which are often more critical of large institutions and elites than the narratives people were exposed to in the past. This criticism has eroded the legitimacy of institutions and elites, as described by [Martin Gurri](https://twitter.com/mgurri) in [The Revolt of the Public](https://www.amazon.com/Revolt-Public-Crisis-Authority-Millennium/dp/1732265143) ([ten minute video version](https://www.youtube.com/watch?v=yhSaPi_zAyY&ab_channel=MartinGurri)).
 
@@ -36,7 +34,7 @@ So much information is produced on the Internet that people no longer need to ev
 Governments, the media, corporations, and educational institutions can no longer control which narratives are taken seriously and this is a direct result of the Internet.
 
 
-# **Doesn't this "decentralization" exist at the mercy of big tech?**
+## Doesn't this "decentralization" exist at the mercy of big tech?
 
 One might object that most anti-establishment narratives spread via YouTube, Facebook, and Twitter, which are all becoming increasingly powerful platforms. Isn't this just a manifestation of a tendency toward centralization? 
 
@@ -54,7 +52,7 @@ Jones and McInnes would never have had their narratives broadcast on mainstream 
 
 
 
-# **What about China?**
+## What about China?
 
 Network effects have led to most Internet communication being mediated by a small number of companies. China has shown us that if these companies are captured by a government the effect on power can be strongly centralizing. However there may be no plausible path for this sort of capture to develop in the West. 
 
@@ -66,7 +64,7 @@ Maybe Western governments could have avoided this fate if they had acted sooner,
 
 Rather than serve as an example of success to emulate, China's rise may harden Western citizens' resolve against authoritarian governance. When groups are in competition they often focus on and take pride in their differences. The narrative "In the West we are free, unlike in China" is appealing to Westerners and may become more so as conflict with China increases -- recall the heightened pro-freedom sentiment in the US during the Cold War.
 
-# **Power dynamics in the US**
+## Power dynamics in the US
 
 Even though the US government [knows a lot about its citizens](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet), its low information control and low legitimacy constrain the authoritarian actions it can take. For the US government to become significantly more powerful it would need to establish higher information control, which it could only achieve with the tech industry's help. 
 
@@ -75,7 +73,7 @@ However it is not in the interest of tech companies to help the US government be
 In the US the balance of power between tech companies, government, and citizens is more evenly distributed than in China, leading to more of a (temporary) stalemate. In the struggle between tech platforms and the US government the support of the public is critical, making both groups cautious about abusing their power.
 
 
-# **The Internet is destabilizing liberalism**
+## The Internet is destabilizing liberalism
 
 Palladium's [opening essay](https://palladiummag.com/2018/09/29/towards-the-post-liberal-synthesis/) defines liberalism as
 
@@ -93,7 +91,7 @@ In liberal countries the Internet has created a new barrier to authoritarianism 
 
 Even if the likelihood of authoritarianism in these countries increases, the size of this increase is critical for understanding how things will unfold. Because this likelihood was so low during the pre-Internet peak of Western liberalism, it would take a huge shift to make authoritarianism inevitable.
 
-# **Immigration and liberalism**
+## Immigration and liberalism
 
 
 
@@ -102,7 +100,7 @@ In Western countries liberal institutions and elites are far more in favor of la
 In general authoritarian-leaning politicians are getting a relative boost in popularity because of the unwillingness of liberal politicians to move more in line with the public on immigration. Yet liberal values are not inherently incompatible with stricter immigration policy. In the pre-Internet era elites could impose their immigration preferences on the public via their higher control of information channels, but they can no longer do so. Once liberal politicians fully internalize this lesson authoritarians may lose one of their best tools for gaining support.
 
 
-# **Tools for resisting centralized power are becoming widespread**
+## Tools for resisting centralized power are becoming widespread
 
 Digital privacy advocates had tried and failed to get people to use end-to-end encryption for decades. Technical challenges prevented the existence of user-friendly options and people didn't care enough to go through the cumbersome process of using these tools. 
 
@@ -118,7 +116,7 @@ Cryptocurrency isn't yet widespread 12 years after its creation and there are ma
 
 
 
-# **Can't governments backdoor our software and hardware?**
+## Can't governments backdoor our software and hardware?
 
 Western governments have tried since the 1990s to [ban end-to-end encryption](https://portswigger.net/daily-swig/western-governments-double-down-efforts-to-curtail-end-to-end-encryption) and have mostly failed, with the partial exception of Australia's recent [anti-encryption law](https://fee.org/articles/australia-s-unprecedented-encryption-law-is-a-threat-to-global-privacy/). This law has been [controversial](https://www.gizmodo.com.au/2020/08/assistance-and-access-law-encrypted-messaging-explained/) and has been blamed for [reducing the competitiveness of Australia's tech industry](https://www.zdnet.com/article/labor-to-introduce-bill-to-fix-australian-encryption-laws-it-voted-for/).
 
@@ -134,7 +132,7 @@ Governments may be able to hack into your phone remotely using [sophisticated sp
 
 Given that the Internet has already stripped Western governments of much of their perceived authority, it's far from clear that citizens will hand these governments the additional power they need to access all of our data. We are not yet living in an authoritarian state -- Western politicians still fear the consequences of enacting and enforcing unpopular laws.
 
-# **The Internet is making physical location less important**
+## The Internet is making physical location less important
 
 When humans were hunter-gatherers power was much more decentralized than it is today. One group could not rule over that many people both because the state of technology meant that the ability to inflict violence was proportional to the size of a group, and because the lack of permanent settlements made it easy for subgroups to leave.
 
@@ -144,12 +142,11 @@ The Internet is bringing us back to a situation where it's less important to phy
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">And other multibillion dollar tech companies have gone full remote.<br><br>We’re entering the next phase, what we’ve been building towards over the last few decades: a global two-sided marketplace of technologists and policymakers.<br><br>Go where we’re welcome, leave where we’re not. <a href="https://t.co/gy2f0nNQOn">https://t.co/gy2f0nNQOn</a></p>&mdash; balajis.com (@balajis) <a href="https://twitter.com/balajis/status/1337755658129534979?ref_src=twsrc%5Etfw">December 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<div><br></div>
 
 Balaji dives deeper into the power of exit in [this talk](https://www.youtube.com/watch?v=cOubCHLXT6A&ab_channel=YCombinator).
 
 
-# **Technology and power**
+## Technology and power
 
 Most technologies increase power across the full spectrum between large organizations and individuals, but they do so unevenly in ways that depend on the details of each technology.
 
@@ -157,7 +154,7 @@ Artificial intelligence becomes more effective the more data and computing power
 
 Because the distribution of power depends so much on the technological landscape, predicting the distribution of power depends to a large degree on predicting the future of technology. Such predictions have always been difficult but are especially so today given that we're in [a period of rapid technological progress](https://www.openphilanthropy.org/blog/modeling-human-trajectory).
 
-# **Centralization is not inevitable**
+## Centralization is not inevitable
 
 Whether power centralizes or decentralizes in the future depends on the specific details of current and future technology, the existing structure of power when this technology is developed, and many other difficult to analyze forces.
 
@@ -166,7 +163,6 @@ Weighing these forces against one another and predicting the future shape of pow
 For those who prefer to avoid an authoritarian future it would be a mistake to prematurely accept that fate.
 
 
-<div><br></div>
 
 <i>Follow me [on twitter](https://twitter.com/elliot_olds) to be notified of my future writing. [Challenge me to a bet](https://www.econlib.org/archives/2012/05/the_bettors_oat.html) if you disagree with anything I've written.</i>
 
